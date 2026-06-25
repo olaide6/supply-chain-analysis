@@ -1,0 +1,501 @@
+PO_ID,Order_Date,Supplier_ID,Supplier_Name,Product_ID,Product_Name,Category,Quantity,Unit_Cost_USD,Total_Cost_USD,Delivery_Date,On_Time_Delivery,Days_Late,Defects_Found,Defect_Rate_Percent,Payment_Status
+PO_00001,9/22/2023,SUP_026,Unified Suppliers,PROD_010,Control Panel,Finished Parts,464,167.36,77655.41,1/1/2024,Yes,0,40,8.62,Paid
+PO_00002,5/22/2024,SUP_022,Integrated Solutions,PROD_006,Electronic Component A,Raw Materials,378,174.39,65920.55,5/31/2024,Yes,0,51,13.49,Overdue
+PO_00003,4/20/2024,SUP_049,Yearlong Materials,PROD_004,Rubber Gasket,Components,986,369.96,364781.77,7/16/2024,Yes,0,86,8.72,Paid
+PO_00004,4/21/2023,SUP_049,Yearlong Materials,PROD_007,Electronic Component B,Components,770,362.19,278887.4,7/28/2023,No,10,52,6.75,Paid
+PO_00005,6/8/2024,SUP_023,Modern Materials,PROD_004,Rubber Gasket,Components,221,350.26,77407.36,8/4/2024,Yes,0,8,3.62,Paid
+PO_00006,6/21/2023,SUP_014,PrecisionParts Inc,PROD_023,Capacitor Bank,Finished Parts,907,394.84,358115.5,8/22/2023,No,0,133,14.66,Paid
+PO_00007,9/11/2023,SUP_020,Strategic Partners,PROD_002,Aluminum Sheet,Finished Parts,205,243.62,49942.83,12/1/2023,Yes,0,8,3.9,Paid
+PO_00008,5/17/2023,SUP_007,Elite Industries,PROD_002,Aluminum Sheet,Finished Parts,211,14.53,3066.78,7/16/2023,No,3,26,12.32,Pending
+PO_00009,3/18/2024,SUP_039,Harmony Supply,PROD_009,Motor Shaft,Finished Parts,776,406.21,315220.09,6/15/2024,Yes,0,115,14.82,Pending
+PO_00010,4/19/2023,SUP_048,Xenon Suppliers,PROD_011,LED Assembly,Raw Materials,619,295.92,183175.28,7/19/2023,Yes,0,29,4.68,Pending
+PO_00011,2/11/2023,SUP_032,Streamline Supply,PROD_025,Wiring Harness,Hardware,34,118.63,4033.53,4/9/2023,No,0,0,0,Overdue
+PO_00012,1/16/2023,SUP_001,Global Materials Inc,PROD_023,Capacitor Bank,Finished Parts,502,320.48,160881.56,3/6/2023,No,0,38,7.57,Overdue
+PO_00013,7/26/2024,SUP_045,Velocity Supply,PROD_004,Rubber Gasket,Components,900,277.36,249621.75,10/30/2024,Yes,0,130,14.44,Pending
+PO_00014,6/18/2024,SUP_019,Century Components,PROD_012,Power Supply,Finished Parts,435,399.65,173849.35,8/28/2024,Yes,0,52,11.95,Paid
+PO_00015,3/15/2024,SUP_048,Xenon Suppliers,PROD_025,Wiring Harness,Hardware,613,337.43,206842.27,6/18/2024,Yes,0,30,4.89,Paid
+PO_00016,8/10/2024,SUP_010,Advanced Logistics,PROD_002,Aluminum Sheet,Finished Parts,898,160.99,144569.61,11/6/2024,Yes,0,81,9.02,Paid
+PO_00017,10/4/2024,SUP_001,Global Materials Inc,PROD_016,Metal Frame,Hardware,933,283.58,264581.86,11/23/2024,Yes,0,64,6.86,Pending
+PO_00018,8/14/2024,SUP_040,Pinnacle Suppliers,PROD_013,Connector Cable,Finished Parts,979,248.63,243411.43,10/27/2024,Yes,0,146,14.91,Paid
+PO_00019,12/11/2023,SUP_025,Premium Components,PROD_025,Wiring Harness,Hardware,823,349.97,288021.49,2/28/2024,Yes,0,112,13.61,Paid
+PO_00020,12/9/2023,SUP_050,Zephyr Components,PROD_001,Steel Bolts,Hardware,335,495.52,165999.39,2/12/2024,Yes,0,14,4.18,Paid
+PO_00021,3/1/2023,SUP_032,Streamline Supply,PROD_014,Circuit Board,Finished Parts,176,134.02,23588.1,5/12/2023,Yes,0,3,1.7,Paid
+PO_00022,12/8/2023,SUP_027,Continental Materials,PROD_021,Switch Assembly,Finished Parts,847,258.98,219355,1/25/2024,Yes,0,28,3.31,Paid
+PO_00023,10/31/2024,SUP_009,Standard Parts Co,PROD_024,Transformer Core,Raw Materials,471,228.89,107808.21,12/7/2024,Yes,0,19,4.03,Paid
+PO_00024,4/11/2023,SUP_007,Elite Industries,PROD_006,Electronic Component A,Raw Materials,368,12.31,4530.05,6/21/2023,Yes,0,35,9.51,Pending
+PO_00025,7/19/2023,SUP_012,Industrial Solutions,PROD_023,Capacitor Bank,Finished Parts,954,112.14,106978.45,8/19/2023,No,7,56,5.87,Paid
+PO_00026,5/4/2023,SUP_042,Apex Components,PROD_016,Metal Frame,Hardware,994,331.5,329514.42,7/11/2023,Yes,0,100,10.06,Pending
+PO_00027,1/13/2023,SUP_026,Unified Suppliers,PROD_013,Connector Cable,Finished Parts,402,150.33,60433.91,4/14/2023,Yes,0,26,6.47,Paid
+PO_00028,2/3/2024,SUP_009,Standard Parts Co,PROD_024,Transformer Core,Raw Materials,719,240.03,172581.81,3/6/2024,Yes,0,33,4.59,Paid
+PO_00029,6/14/2023,SUP_046,Universal Materials,PROD_003,Copper Wire,Raw Materials,323,125.98,40690.46,8/20/2023,Yes,0,46,14.24,Paid
+PO_00030,11/9/2024,SUP_035,Nexus Components,PROD_005,Plastic Housing,Components,445,369.45,164404.77,1/29/2025,No,12,65,14.61,Paid
+PO_00031,12/30/2023,SUP_046,Universal Materials,PROD_017,Composite Panel,Components,885,104.91,92845.27,3/3/2024,Yes,0,145,16.38,Paid
+PO_00032,2/28/2024,SUP_050,Zephyr Components,PROD_017,Composite Panel,Components,865,400.34,346294.85,4/27/2024,Yes,0,41,4.74,Overdue
+PO_00033,5/19/2024,SUP_006,Rapid Supply Chain,PROD_019,Insulation Material,Finished Parts,678,94.79,64265.08,5/29/2024,No,1,67,9.88,Overdue
+PO_00034,3/20/2024,SUP_029,Expert Vendors,PROD_014,Circuit Board,Finished Parts,249,480.66,119685.06,3/31/2024,Yes,0,30,12.05,Pending
+PO_00035,6/5/2023,SUP_021,Efficient Supply,PROD_010,Control Panel,Finished Parts,181,61.37,11107.93,7/27/2023,Yes,0,7,3.87,Paid
+PO_00036,3/18/2023,SUP_046,Universal Materials,PROD_008,Bearing Unit,Raw Materials,68,125.39,8526.77,6/8/2023,No,14,16,23.53,Pending
+PO_00037,2/11/2024,SUP_016,Smart Supply,PROD_019,Insulation Material,Finished Parts,408,501.4,204571.98,3/10/2024,Yes,0,38,9.31,Overdue
+PO_00038,7/26/2024,SUP_030,Consolidated Supply,PROD_019,Insulation Material,Finished Parts,92,449.35,41340.24,8/13/2024,Yes,0,5,5.43,Pending
+PO_00039,6/6/2023,SUP_035,Nexus Components,PROD_003,Copper Wire,Raw Materials,677,332.01,224769.38,8/9/2023,No,0,106,15.66,Paid
+PO_00040,5/2/2024,SUP_001,Global Materials Inc,PROD_012,Power Supply,Finished Parts,831,283.55,235632.42,6/22/2024,No,0,44,5.29,Pending
+PO_00041,5/3/2024,SUP_018,Dynamic Materials,PROD_002,Aluminum Sheet,Finished Parts,166,446,74035.28,5/18/2024,Yes,0,16,9.64,Paid
+PO_00042,5/6/2024,SUP_037,Frontier Materials,PROD_009,Motor Shaft,Finished Parts,591,207.49,122626.97,6/23/2024,Yes,0,38,6.43,Paid
+PO_00043,12/18/2024,SUP_021,Efficient Supply,PROD_018,Thermal Paste,Electronics,26,59.35,1543.02,2/20/2025,Yes,0,2,7.69,Paid
+PO_00044,9/11/2023,SUP_018,Dynamic Materials,PROD_009,Motor Shaft,Finished Parts,190,517.28,98284.05,9/19/2023,No,0,28,14.74,Paid
+PO_00045,12/3/2023,SUP_044,Stellar Parts,PROD_012,Power Supply,Finished Parts,584,343.56,200637.27,2/29/2024,Yes,0,26,4.45,Pending
+PO_00046,12/26/2024,SUP_046,Universal Materials,PROD_020,Battery Cell,Raw Materials,206,97.25,20033.65,3/13/2025,Yes,0,35,16.99,Pending
+PO_00047,11/11/2023,SUP_032,Streamline Supply,PROD_013,Connector Cable,Finished Parts,671,143.94,96587.07,1/8/2024,Yes,0,21,3.13,Paid
+PO_00048,3/14/2023,SUP_022,Integrated Solutions,PROD_005,Plastic Housing,Components,518,202.77,105032.32,3/29/2023,Yes,0,53,10.23,Paid
+PO_00049,10/23/2024,SUP_017,Professional Suppliers,PROD_002,Aluminum Sheet,Finished Parts,434,378.87,164431.34,12/25/2024,Yes,0,57,13.13,Paid
+PO_00050,1/7/2023,SUP_039,Harmony Supply,PROD_004,Rubber Gasket,Components,323,471.87,152413.99,3/23/2023,No,0,49,15.17,Paid
+PO_00051,2/13/2024,SUP_048,Xenon Suppliers,PROD_006,Electronic Component A,Raw Materials,941,340.61,320517.29,5/8/2024,Yes,0,45,4.78,Pending
+PO_00052,7/23/2023,SUP_039,Harmony Supply,PROD_020,Battery Cell,Raw Materials,170,461.72,78492.27,10/6/2023,Yes,0,19,11.18,Paid
+PO_00053,11/11/2023,SUP_009,Standard Parts Co,PROD_021,Switch Assembly,Finished Parts,910,240.3,218674.14,12/14/2023,Yes,0,41,4.51,Overdue
+PO_00054,8/27/2023,SUP_037,Frontier Materials,PROD_024,Transformer Core,Raw Materials,961,213.35,205027.29,10/19/2023,Yes,0,48,4.99,Paid
+PO_00055,7/3/2023,SUP_016,Smart Supply,PROD_004,Rubber Gasket,Components,235,480.92,113015.18,7/25/2023,Yes,0,19,8.09,Overdue
+PO_00056,9/12/2023,SUP_010,Advanced Logistics,PROD_019,Insulation Material,Finished Parts,846,143.15,121102.57,12/3/2023,Yes,0,97,11.47,Paid
+PO_00057,2/11/2023,SUP_034,Precision Suppliers,PROD_005,Plastic Housing,Components,711,22.93,16300.1,4/13/2023,No,1,82,11.53,Paid
+PO_00058,12/26/2023,SUP_025,Premium Components,PROD_019,Insulation Material,Finished Parts,19,283.75,5391.17,3/18/2024,No,0,5,26.32,Pending
+PO_00059,12/17/2024,SUP_019,Century Components,PROD_010,Control Panel,Finished Parts,900,478.76,430880.7,2/24/2025,No,3,105,11.67,Paid
+PO_00060,5/2/2023,SUP_007,Elite Industries,PROD_008,Bearing Unit,Raw Materials,441,11.64,5135.36,7/9/2023,Yes,0,71,16.1,Pending
+PO_00061,2/20/2024,SUP_041,Zenith Materials,PROD_002,Aluminum Sheet,Finished Parts,735,325.29,239091.14,3/8/2024,Yes,0,86,11.7,Paid
+PO_00062,3/13/2023,SUP_047,Wavelength Components,PROD_013,Connector Cable,Finished Parts,272,443.21,120554.16,5/6/2023,No,8,7,2.57,Paid
+PO_00063,8/9/2024,SUP_050,Zephyr Components,PROD_016,Metal Frame,Hardware,686,407.59,279609.86,10/5/2024,Yes,0,38,5.54,Paid
+PO_00064,12/27/2023,SUP_037,Frontier Materials,PROD_025,Wiring Harness,Hardware,383,214.82,82276.13,2/14/2024,Yes,0,20,5.22,Paid
+PO_00065,8/21/2024,SUP_029,Expert Vendors,PROD_002,Aluminum Sheet,Finished Parts,151,455.97,68851.54,9/8/2024,No,8,16,10.6,Pending
+PO_00066,6/20/2023,SUP_024,Direct Supply,PROD_019,Insulation Material,Finished Parts,662,368.8,244145.1,8/14/2023,Yes,0,21,3.17,Paid
+PO_00067,6/21/2024,SUP_044,Stellar Parts,PROD_023,Capacitor Bank,Finished Parts,930,279.43,259872.03,9/20/2024,No,13,56,6.02,Paid
+PO_00068,9/12/2023,SUP_040,Pinnacle Suppliers,PROD_022,Relay Unit,Hardware,464,265.19,123049.77,11/26/2023,Yes,0,72,15.52,Overdue
+PO_00069,6/3/2024,SUP_019,Century Components,PROD_002,Aluminum Sheet,Finished Parts,131,401.76,52630,8/6/2024,No,0,8,6.11,Paid
+PO_00070,6/24/2023,SUP_042,Apex Components,PROD_011,LED Assembly,Raw Materials,840,396.25,332853.85,8/24/2023,Yes,0,82,9.76,Overdue
+PO_00071,12/6/2023,SUP_030,Consolidated Supply,PROD_016,Metal Frame,Hardware,356,416,148097.3,12/17/2023,Yes,0,29,8.15,Paid
+PO_00072,1/15/2023,SUP_005,Premier Components,PROD_014,Circuit Board,Finished Parts,525,166.04,87170.7,3/29/2023,Yes,0,44,8.38,Paid
+PO_00073,4/21/2023,SUP_047,Wavelength Components,PROD_024,Transformer Core,Raw Materials,241,539.5,130020.19,6/18/2023,Yes,0,13,5.39,Pending
+PO_00074,4/26/2023,SUP_037,Frontier Materials,PROD_022,Relay Unit,Hardware,279,245.01,68356.97,6/26/2023,Yes,0,13,4.66,Paid
+PO_00075,9/3/2024,SUP_023,Modern Materials,PROD_011,LED Assembly,Raw Materials,351,387.56,136031.91,10/22/2024,No,0,8,2.28,Paid
+PO_00076,6/19/2024,SUP_046,Universal Materials,PROD_007,Electronic Component B,Components,393,97.13,38170.72,9/8/2024,Yes,0,56,14.25,Paid
+PO_00077,12/6/2023,SUP_007,Elite Industries,PROD_017,Composite Panel,Components,138,12.06,1664.47,2/1/2024,Yes,0,15,10.87,Paid
+PO_00078,3/19/2024,SUP_038,Summit Components,PROD_006,Electronic Component A,Raw Materials,799,96.64,77214.14,4/23/2024,Yes,0,105,13.14,Paid
+PO_00079,2/15/2023,SUP_012,Industrial Solutions,PROD_009,Motor Shaft,Finished Parts,311,109.99,34205.41,3/6/2023,No,0,15,4.82,Paid
+PO_00080,7/13/2024,SUP_046,Universal Materials,PROD_001,Steel Bolts,Hardware,28,105.73,2960.47,9/24/2024,No,5,3,10.71,Paid
+PO_00081,4/4/2024,SUP_044,Stellar Parts,PROD_003,Copper Wire,Raw Materials,262,333.85,87467.69,7/3/2024,Yes,0,15,5.73,Paid
+PO_00082,6/10/2023,SUP_034,Precision Suppliers,PROD_009,Motor Shaft,Finished Parts,952,24.64,23461.43,8/7/2023,Yes,0,97,10.19,Paid
+PO_00083,9/13/2023,SUP_049,Yearlong Materials,PROD_003,Copper Wire,Raw Materials,362,323.1,116963.68,12/16/2023,Yes,0,28,7.73,Paid
+PO_00084,5/30/2023,SUP_021,Efficient Supply,PROD_004,Rubber Gasket,Components,141,57.99,8176.94,7/22/2023,Yes,0,9,6.38,Overdue
+PO_00085,1/30/2023,SUP_010,Advanced Logistics,PROD_011,LED Assembly,Raw Materials,734,138.82,101896.26,4/30/2023,Yes,0,75,10.22,Paid
+PO_00086,10/10/2023,SUP_004,EcoSource Materials,PROD_018,Thermal Paste,Electronics,952,150.15,142944.19,12/8/2023,Yes,0,19,2,Pending
+PO_00087,9/12/2023,SUP_047,Wavelength Components,PROD_011,LED Assembly,Raw Materials,188,560.13,105304.06,10/27/2023,Yes,0,9,4.79,Pending
+PO_00088,10/7/2024,SUP_013,Tech Components Ltd,PROD_021,Switch Assembly,Finished Parts,732,365.45,267506.56,10/21/2024,No,4,11,1.5,Paid
+PO_00089,3/11/2023,SUP_016,Smart Supply,PROD_009,Motor Shaft,Finished Parts,818,434.5,355417.92,4/9/2023,Yes,0,64,7.82,Paid
+PO_00090,3/17/2024,SUP_013,Tech Components Ltd,PROD_018,Thermal Paste,Electronics,212,399.11,84610.34,3/28/2024,Yes,0,7,3.3,Paid
+PO_00091,1/31/2023,SUP_030,Consolidated Supply,PROD_012,Power Supply,Finished Parts,507,426.37,216167.54,2/18/2023,Yes,0,43,8.48,Overdue
+PO_00092,8/31/2023,SUP_020,Strategic Partners,PROD_019,Insulation Material,Finished Parts,959,265.82,254917.16,11/25/2023,Yes,0,33,3.44,Paid
+PO_00093,2/28/2023,SUP_035,Nexus Components,PROD_008,Bearing Unit,Raw Materials,874,426.59,372843.85,5/9/2023,No,1,128,14.65,Paid
+PO_00094,4/18/2024,SUP_001,Global Materials Inc,PROD_015,Fastener Kit,Electronics,706,289,204033.27,6/13/2024,Yes,0,33,4.67,Overdue
+PO_00095,8/17/2023,SUP_019,Century Components,PROD_006,Electronic Component A,Raw Materials,988,417.58,412565.95,11/1/2023,Yes,0,95,9.62,Paid
+PO_00096,3/7/2024,SUP_047,Wavelength Components,PROD_001,Steel Bolts,Hardware,713,507.44,361803.65,4/19/2024,Yes,0,29,4.07,Overdue
+PO_00097,3/10/2023,SUP_049,Yearlong Materials,PROD_009,Motor Shaft,Finished Parts,620,373.43,231523.92,6/2/2023,Yes,0,36,5.81,Paid
+PO_00098,11/21/2023,SUP_011,Reliable Vendors,PROD_006,Electronic Component A,Raw Materials,223,11.92,2658.68,1/9/2024,Yes,0,22,9.87,Pending
+PO_00099,10/26/2024,SUP_040,Pinnacle Suppliers,PROD_018,Thermal Paste,Electronics,75,221.8,16635.22,1/2/2025,Yes,0,13,17.33,Paid
+PO_00100,12/3/2024,SUP_016,Smart Supply,PROD_010,Control Panel,Finished Parts,885,492.29,435675.28,12/19/2024,No,1,74,8.36,Pending
+PO_00101,1/14/2024,SUP_027,Continental Materials,PROD_004,Rubber Gasket,Components,731,281.31,205638.67,2/27/2024,Yes,0,23,3.15,Paid
+PO_00102,8/9/2023,SUP_017,Professional Suppliers,PROD_023,Capacitor Bank,Finished Parts,388,328.92,127619.82,10/10/2023,Yes,0,60,15.46,Paid
+PO_00103,1/27/2024,SUP_010,Advanced Logistics,PROD_007,Electronic Component B,Components,531,165.4,87826.53,4/18/2024,Yes,0,45,8.47,Paid
+PO_00104,1/6/2024,SUP_021,Efficient Supply,PROD_013,Connector Cable,Finished Parts,108,60.98,6586.34,2/26/2024,Yes,0,9,8.33,Pending
+PO_00105,4/14/2023,SUP_041,Zenith Materials,PROD_001,Steel Bolts,Hardware,170,260.85,44345.08,5/10/2023,Yes,0,32,18.82,Paid
+PO_00106,12/10/2023,SUP_016,Smart Supply,PROD_015,Fastener Kit,Electronics,89,538.72,47945.91,12/21/2023,Yes,0,7,7.87,Paid
+PO_00107,10/18/2024,SUP_038,Summit Components,PROD_012,Power Supply,Finished Parts,607,113.49,68885.59,11/23/2024,Yes,0,80,13.18,Paid
+PO_00108,1/25/2024,SUP_035,Nexus Components,PROD_015,Fastener Kit,Electronics,443,399.08,176790.5,4/12/2024,Yes,0,60,13.54,Paid
+PO_00109,1/17/2024,SUP_005,Premier Components,PROD_013,Connector Cable,Finished Parts,874,165.9,144998.63,3/25/2024,Yes,0,67,7.67,Pending
+PO_00110,1/16/2024,SUP_022,Integrated Solutions,PROD_021,Switch Assembly,Finished Parts,682,218.23,148830.13,2/8/2024,Yes,0,64,9.38,Paid
+PO_00111,5/18/2023,SUP_048,Xenon Suppliers,PROD_022,Relay Unit,Hardware,352,356.19,125377.56,8/20/2023,Yes,0,17,4.83,Pending
+PO_00112,10/3/2023,SUP_035,Nexus Components,PROD_011,LED Assembly,Raw Materials,925,419.01,387585.43,12/23/2023,No,12,103,11.14,Paid
+PO_00113,4/14/2023,SUP_047,Wavelength Components,PROD_020,Battery Cell,Raw Materials,691,537.97,371735.37,6/11/2023,Yes,0,26,3.76,Paid
+PO_00114,2/28/2023,SUP_007,Elite Industries,PROD_006,Electronic Component A,Raw Materials,186,14.15,2632.17,5/1/2023,Yes,0,22,11.83,Overdue
+PO_00115,2/21/2023,SUP_050,Zephyr Components,PROD_006,Electronic Component A,Raw Materials,218,469.58,102367.41,4/16/2023,Yes,0,19,8.72,Pending
+PO_00116,11/20/2023,SUP_013,Tech Components Ltd,PROD_006,Electronic Component A,Raw Materials,393,420.09,165093.77,11/25/2023,Yes,0,7,1.78,Paid
+PO_00117,4/10/2024,SUP_004,EcoSource Materials,PROD_011,LED Assembly,Raw Materials,848,166.19,140927.31,6/12/2024,Yes,0,16,1.89,Paid
+PO_00118,12/10/2024,SUP_027,Continental Materials,PROD_005,Plastic Housing,Components,803,332.13,266701.9,2/2/2025,Yes,0,30,3.74,Paid
+PO_00119,6/16/2023,SUP_003,Quality Suppliers Ltd,PROD_022,Relay Unit,Hardware,968,324,313627.67,8/7/2023,Yes,0,108,11.16,Paid
+PO_00120,3/19/2024,SUP_028,Superior Parts,PROD_017,Composite Panel,Components,925,190.08,175820.45,5/19/2024,Yes,0,144,15.57,Overdue
+PO_00121,3/4/2023,SUP_049,Yearlong Materials,PROD_007,Electronic Component B,Components,513,342.25,175575.4,6/6/2023,Yes,0,41,7.99,Paid
+PO_00122,2/21/2023,SUP_032,Streamline Supply,PROD_002,Aluminum Sheet,Finished Parts,347,141.2,48996.57,4/19/2023,No,0,6,1.73,Pending
+PO_00123,11/1/2024,SUP_008,NextGen Suppliers,PROD_008,Bearing Unit,Raw Materials,89,194.41,17302.71,11/24/2024,Yes,0,4,4.49,Paid
+PO_00124,2/12/2024,SUP_035,Nexus Components,PROD_004,Rubber Gasket,Components,466,389.66,181579.46,4/22/2024,Yes,0,59,12.66,Paid
+PO_00125,9/30/2023,SUP_015,Global Traders,PROD_024,Transformer Core,Raw Materials,949,336.22,319072.08,10/22/2023,Yes,0,67,7.06,Paid
+PO_00126,5/18/2023,SUP_010,Advanced Logistics,PROD_001,Steel Bolts,Hardware,482,179.18,86364.55,8/8/2023,Yes,0,56,11.62,Paid
+PO_00127,5/27/2023,SUP_035,Nexus Components,PROD_009,Motor Shaft,Finished Parts,268,384.57,103065.17,8/13/2023,No,9,47,17.54,Pending
+PO_00128,2/24/2024,SUP_035,Nexus Components,PROD_015,Fastener Kit,Electronics,258,368.82,95154.39,5/1/2024,No,0,27,10.47,Pending
+PO_00129,12/14/2023,SUP_040,Pinnacle Suppliers,PROD_013,Connector Cable,Finished Parts,807,252.79,204002.3,2/17/2024,Yes,0,115,14.25,Paid
+PO_00130,5/26/2023,SUP_029,Expert Vendors,PROD_017,Composite Panel,Components,845,489.57,413689.39,6/6/2023,Yes,0,121,14.32,Pending
+PO_00131,1/31/2024,SUP_002,FastParts Co,PROD_019,Insulation Material,Finished Parts,360,460.37,165732.05,4/22/2024,Yes,0,45,12.5,Paid
+PO_00132,2/15/2024,SUP_044,Stellar Parts,PROD_013,Connector Cable,Finished Parts,17,302.04,5134.61,5/7/2024,Yes,0,2,11.76,Paid
+PO_00133,5/8/2024,SUP_043,Quantum Suppliers,PROD_011,LED Assembly,Raw Materials,908,72.6,65916.46,6/7/2024,Yes,0,66,7.27,Paid
+PO_00134,2/14/2024,SUP_047,Wavelength Components,PROD_014,Circuit Board,Finished Parts,340,469.85,159748.83,3/28/2024,No,0,11,3.24,Paid
+PO_00135,7/6/2023,SUP_044,Stellar Parts,PROD_008,Bearing Unit,Raw Materials,828,335.11,277474.41,9/20/2023,No,0,58,7,Paid
+PO_00136,3/23/2024,SUP_045,Velocity Supply,PROD_012,Power Supply,Finished Parts,522,249.78,130384.35,6/11/2024,Yes,0,76,14.56,Paid
+PO_00137,11/30/2023,SUP_041,Zenith Materials,PROD_006,Electronic Component A,Raw Materials,724,261.37,189230.48,12/24/2023,Yes,0,81,11.19,Paid
+PO_00138,6/19/2023,SUP_029,Expert Vendors,PROD_010,Control Panel,Finished Parts,699,495.49,346345.26,6/27/2023,Yes,0,108,15.45,Pending
+PO_00139,1/6/2024,SUP_038,Summit Components,PROD_015,Fastener Kit,Electronics,786,96.39,75766.45,2/13/2024,Yes,0,103,13.1,Overdue
+PO_00140,2/23/2024,SUP_002,FastParts Co,PROD_011,LED Assembly,Raw Materials,97,573.11,55591.19,5/3/2024,Yes,0,13,13.4,Pending
+PO_00141,10/4/2023,SUP_035,Nexus Components,PROD_014,Circuit Board,Finished Parts,859,349.31,300054.05,12/21/2023,Yes,0,116,13.5,Paid
+PO_00142,9/11/2024,SUP_032,Streamline Supply,PROD_019,Insulation Material,Finished Parts,462,120.37,55611.51,11/22/2024,Yes,0,18,3.9,Paid
+PO_00143,8/25/2023,SUP_013,Tech Components Ltd,PROD_004,Rubber Gasket,Components,812,408.07,331350.58,9/1/2023,Yes,0,12,1.48,Pending
+PO_00144,12/19/2023,SUP_005,Premier Components,PROD_009,Motor Shaft,Finished Parts,917,137.04,125661.4,3/2/2024,No,4,79,8.62,Overdue
+PO_00145,11/30/2023,SUP_043,Quantum Suppliers,PROD_025,Wiring Harness,Hardware,293,87.83,25733.7,12/25/2023,Yes,0,24,8.19,Pending
+PO_00146,2/3/2023,SUP_024,Direct Supply,PROD_012,Power Supply,Finished Parts,901,368.09,331646.97,3/17/2023,Yes,0,29,3.22,Paid
+PO_00147,1/3/2023,SUP_046,Universal Materials,PROD_024,Transformer Core,Raw Materials,37,115.52,4274.07,3/24/2023,Yes,0,3,8.11,Paid
+PO_00148,9/29/2024,SUP_010,Advanced Logistics,PROD_020,Battery Cell,Raw Materials,837,140.13,117292.26,12/24/2024,Yes,0,84,10.04,Paid
+PO_00149,3/10/2024,SUP_021,Efficient Supply,PROD_010,Control Panel,Finished Parts,693,57.79,40049.11,5/10/2024,Yes,0,47,6.78,Pending
+PO_00150,9/21/2023,SUP_044,Stellar Parts,PROD_021,Switch Assembly,Finished Parts,147,301.85,44372.39,12/13/2023,No,5,7,4.76,Paid
+PO_00151,9/12/2024,SUP_025,Premium Components,PROD_019,Insulation Material,Finished Parts,837,352.16,294761.39,12/11/2024,Yes,0,132,15.77,Paid
+PO_00152,2/9/2023,SUP_042,Apex Components,PROD_025,Wiring Harness,Hardware,282,414.95,117014.74,4/8/2023,Yes,0,24,8.51,Paid
+PO_00153,10/15/2023,SUP_021,Efficient Supply,PROD_008,Bearing Unit,Raw Materials,468,52.17,24414.92,12/1/2023,Yes,0,35,7.48,Paid
+PO_00154,7/13/2024,SUP_010,Advanced Logistics,PROD_019,Insulation Material,Finished Parts,257,147.78,37979.29,9/28/2024,No,0,26,10.12,Overdue
+PO_00155,3/19/2024,SUP_024,Direct Supply,PROD_012,Power Supply,Finished Parts,126,360.42,45412.88,4/29/2024,Yes,0,4,3.17,Paid
+PO_00156,9/6/2023,SUP_040,Pinnacle Suppliers,PROD_011,LED Assembly,Raw Materials,647,216.95,140364.09,11/24/2023,No,11,99,15.3,Paid
+PO_00157,9/23/2023,SUP_037,Frontier Materials,PROD_019,Insulation Material,Finished Parts,418,255.3,106714.23,11/23/2023,Yes,0,19,4.55,Paid
+PO_00158,2/17/2023,SUP_006,Rapid Supply Chain,PROD_010,Control Panel,Finished Parts,776,86.06,66786.36,3/9/2023,Yes,0,79,10.18,Pending
+PO_00159,12/28/2023,SUP_006,Rapid Supply Chain,PROD_025,Wiring Harness,Hardware,155,82.24,12746.59,1/10/2024,No,4,23,14.84,Paid
+PO_00160,4/2/2024,SUP_016,Smart Supply,PROD_020,Battery Cell,Raw Materials,588,528.53,310772.91,4/17/2024,No,0,36,6.12,Paid
+PO_00161,6/24/2023,SUP_041,Zenith Materials,PROD_018,Thermal Paste,Electronics,908,256.3,232716.33,7/25/2023,No,11,100,11.01,Pending
+PO_00162,12/2/2023,SUP_049,Yearlong Materials,PROD_015,Fastener Kit,Electronics,712,386.04,274861.33,3/7/2024,Yes,0,42,5.9,Paid
+PO_00163,7/20/2023,SUP_014,PrecisionParts Inc,PROD_010,Control Panel,Finished Parts,231,471.98,109027.18,10/6/2023,Yes,0,28,12.12,Paid
+PO_00164,9/1/2023,SUP_035,Nexus Components,PROD_022,Relay Unit,Hardware,483,395.27,190917.12,11/12/2023,Yes,0,69,14.29,Paid
+PO_00165,9/10/2023,SUP_040,Pinnacle Suppliers,PROD_007,Electronic Component B,Components,450,254.63,114581.72,11/14/2023,Yes,0,70,15.56,Paid
+PO_00166,11/24/2024,SUP_040,Pinnacle Suppliers,PROD_001,Steel Bolts,Hardware,944,285,269035.92,2/10/2025,Yes,0,135,14.3,Paid
+PO_00167,11/16/2024,SUP_001,Global Materials Inc,PROD_018,Thermal Paste,Electronics,355,321.13,114000.47,1/13/2025,Yes,0,18,5.07,Paid
+PO_00168,4/26/2023,SUP_039,Harmony Supply,PROD_003,Copper Wire,Raw Materials,544,486.63,264728.79,7/22/2023,Yes,0,68,12.5,Paid
+PO_00169,4/10/2024,SUP_010,Advanced Logistics,PROD_024,Transformer Core,Raw Materials,661,153.81,101666.39,7/9/2024,Yes,0,73,11.04,Paid
+PO_00170,4/18/2023,SUP_039,Harmony Supply,PROD_009,Motor Shaft,Finished Parts,285,472.51,134666.41,7/6/2023,Yes,0,40,14.04,Paid
+PO_00171,1/23/2023,SUP_026,Unified Suppliers,PROD_003,Copper Wire,Raw Materials,765,153.08,117103.74,4/25/2023,Yes,0,44,5.75,Paid
+PO_00172,1/16/2023,SUP_044,Stellar Parts,PROD_003,Copper Wire,Raw Materials,353,294.5,103958.5,4/6/2023,Yes,0,20,5.67,Paid
+PO_00173,8/29/2023,SUP_023,Modern Materials,PROD_010,Control Panel,Finished Parts,939,342.34,321455.68,11/2/2023,Yes,0,29,3.09,Pending
+PO_00174,6/16/2023,SUP_049,Yearlong Materials,PROD_004,Rubber Gasket,Components,177,330.96,58579.11,9/21/2023,No,9,9,5.08,Paid
+PO_00175,1/12/2023,SUP_031,Innovation Partners,PROD_020,Battery Cell,Raw Materials,612,422.99,258868.01,1/24/2023,Yes,0,74,12.09,Paid
+PO_00176,11/28/2024,SUP_024,Direct Supply,PROD_017,Composite Panel,Components,962,350.92,337580.56,1/15/2025,Yes,0,27,2.81,Paid
+PO_00177,6/16/2023,SUP_022,Integrated Solutions,PROD_005,Plastic Housing,Components,644,187.73,120896.07,7/1/2023,Yes,0,62,9.63,Paid
+PO_00178,6/11/2023,SUP_004,EcoSource Materials,PROD_020,Battery Cell,Raw Materials,748,155.59,116382.54,8/13/2023,Yes,0,15,2.01,Pending
+PO_00179,10/20/2024,SUP_041,Zenith Materials,PROD_002,Aluminum Sheet,Finished Parts,389,309.15,120257.94,11/4/2024,No,0,62,15.94,Overdue
+PO_00180,7/11/2023,SUP_004,EcoSource Materials,PROD_017,Composite Panel,Components,797,155.77,124151.6,9/8/2023,No,0,26,3.26,Paid
+PO_00181,3/24/2023,SUP_046,Universal Materials,PROD_016,Metal Frame,Hardware,630,112.18,70674.25,5/31/2023,Yes,0,88,13.97,Paid
+PO_00182,6/3/2024,SUP_017,Professional Suppliers,PROD_017,Composite Panel,Components,433,370.66,160495.32,8/2/2024,No,1,44,10.16,Paid
+PO_00183,9/22/2023,SUP_022,Integrated Solutions,PROD_011,LED Assembly,Raw Materials,792,196.87,155922.42,10/9/2023,Yes,0,85,10.73,Paid
+PO_00184,7/29/2023,SUP_008,NextGen Suppliers,PROD_016,Metal Frame,Hardware,505,256.74,129651.99,8/15/2023,Yes,0,24,4.75,Paid
+PO_00185,7/26/2023,SUP_001,Global Materials Inc,PROD_023,Capacitor Bank,Finished Parts,678,335.86,227710.51,9/14/2023,No,0,54,7.96,Paid
+PO_00186,3/17/2024,SUP_008,NextGen Suppliers,PROD_014,Circuit Board,Finished Parts,280,233.19,65294.29,4/5/2024,Yes,0,20,7.14,Paid
+PO_00187,10/24/2024,SUP_033,Optimal Materials,PROD_009,Motor Shaft,Finished Parts,632,134.14,84778.56,11/14/2024,Yes,0,32,5.06,Paid
+PO_00188,7/18/2024,SUP_016,Smart Supply,PROD_001,Steel Bolts,Hardware,222,483.23,107277.61,8/7/2024,Yes,0,15,6.76,Paid
+PO_00189,10/10/2023,SUP_044,Stellar Parts,PROD_025,Wiring Harness,Hardware,204,313.74,64001.99,12/30/2023,No,3,15,7.35,Paid
+PO_00190,4/30/2023,SUP_007,Elite Industries,PROD_025,Wiring Harness,Hardware,465,14.83,6897.78,6/26/2023,No,0,71,15.27,Paid
+PO_00191,3/18/2023,SUP_011,Reliable Vendors,PROD_015,Fastener Kit,Electronics,744,11.29,8396.1,5/3/2023,No,1,83,11.16,Paid
+PO_00192,6/11/2024,SUP_037,Frontier Materials,PROD_008,Bearing Unit,Raw Materials,505,253.88,128211.56,8/12/2024,Yes,0,38,7.52,Pending
+PO_00193,3/21/2024,SUP_041,Zenith Materials,PROD_013,Connector Cable,Finished Parts,61,281.46,17168.78,4/7/2024,No,0,5,8.2,Pending
+PO_00194,4/20/2024,SUP_042,Apex Components,PROD_003,Copper Wire,Raw Materials,566,401.95,227503.58,6/8/2024,Yes,0,67,11.84,Pending
+PO_00195,10/10/2023,SUP_020,Strategic Partners,PROD_023,Capacitor Bank,Finished Parts,871,242.38,211112.25,12/23/2023,Yes,0,22,2.53,Paid
+PO_00196,12/13/2024,SUP_043,Quantum Suppliers,PROD_023,Capacitor Bank,Finished Parts,714,85.83,61280.4,1/12/2025,Yes,0,58,8.12,Paid
+PO_00197,11/4/2023,SUP_006,Rapid Supply Chain,PROD_021,Switch Assembly,Finished Parts,687,93.41,64170.4,11/23/2023,Yes,0,82,11.94,Paid
+PO_00198,11/14/2024,SUP_033,Optimal Materials,PROD_017,Composite Panel,Components,269,125.28,33701.21,11/25/2024,No,1,15,5.58,Overdue
+PO_00199,3/31/2023,SUP_048,Xenon Suppliers,PROD_025,Wiring Harness,Hardware,51,335,17084.75,6/29/2023,Yes,0,1,1.96,Paid
+PO_00200,6/5/2023,SUP_007,Elite Industries,PROD_019,Insulation Material,Finished Parts,639,14.88,9506.09,7/29/2023,Yes,0,88,13.77,Overdue
+PO_00201,2/15/2024,SUP_029,Expert Vendors,PROD_019,Insulation Material,Finished Parts,687,521.22,358079.49,2/24/2024,Yes,0,100,14.56,Paid
+PO_00202,5/30/2023,SUP_004,EcoSource Materials,PROD_009,Motor Shaft,Finished Parts,642,137.5,88278.1,8/3/2023,Yes,0,18,2.8,Pending
+PO_00203,11/15/2023,SUP_045,Velocity Supply,PROD_013,Connector Cable,Finished Parts,519,295.2,153210.24,2/10/2024,Yes,0,73,14.07,Paid
+PO_00204,12/11/2023,SUP_018,Dynamic Materials,PROD_007,Electronic Component B,Components,358,416.64,149156.98,12/17/2023,Yes,0,49,13.69,Overdue
+PO_00205,9/25/2024,SUP_026,Unified Suppliers,PROD_010,Control Panel,Finished Parts,518,168.7,87385.01,12/25/2024,Yes,0,44,8.49,Paid
+PO_00206,1/2/2023,SUP_013,Tech Components Ltd,PROD_015,Fastener Kit,Electronics,988,373.17,368692.83,1/16/2023,No,4,15,1.52,Pending
+PO_00207,7/7/2024,SUP_018,Dynamic Materials,PROD_006,Electronic Component A,Raw Materials,590,506.28,298707.81,7/16/2024,Yes,0,54,9.15,Paid
+PO_00208,10/6/2024,SUP_017,Professional Suppliers,PROD_008,Bearing Unit,Raw Materials,132,391.76,51712.97,12/1/2024,Yes,0,14,10.61,Paid
+PO_00209,11/25/2024,SUP_037,Frontier Materials,PROD_017,Composite Panel,Components,704,240.54,169339.72,1/23/2025,Yes,0,53,7.53,Overdue
+PO_00210,6/29/2023,SUP_023,Modern Materials,PROD_007,Electronic Component B,Components,191,324.3,61941.19,8/20/2023,Yes,0,8,4.19,Overdue
+PO_00211,7/15/2023,SUP_027,Continental Materials,PROD_015,Fastener Kit,Electronics,913,267.98,244661.46,9/3/2023,Yes,0,29,3.18,Paid
+PO_00212,9/11/2023,SUP_016,Smart Supply,PROD_021,Switch Assembly,Finished Parts,27,527.3,14236.98,10/1/2023,No,5,3,11.11,Paid
+PO_00213,10/12/2023,SUP_034,Precision Suppliers,PROD_019,Insulation Material,Finished Parts,401,26.37,10572.71,12/6/2023,No,0,57,14.21,Paid
+PO_00214,10/18/2024,SUP_010,Advanced Logistics,PROD_020,Battery Cell,Raw Materials,119,162.81,19374.15,1/8/2025,Yes,0,11,9.24,Paid
+PO_00215,12/29/2024,SUP_024,Direct Supply,PROD_006,Electronic Component A,Raw Materials,472,350.21,165300.61,2/4/2025,No,0,11,2.33,Paid
+PO_00216,7/4/2023,SUP_013,Tech Components Ltd,PROD_016,Metal Frame,Hardware,568,406.79,231057.99,7/14/2023,Yes,0,5,0.88,Pending
+PO_00217,5/17/2023,SUP_050,Zephyr Components,PROD_005,Plastic Housing,Components,368,478.2,175977.52,7/12/2023,Yes,0,23,6.25,Paid
+PO_00218,7/4/2024,SUP_017,Professional Suppliers,PROD_016,Metal Frame,Hardware,644,375.15,241594.45,9/4/2024,Yes,0,83,12.89,Pending
+PO_00219,9/3/2024,SUP_013,Tech Components Ltd,PROD_009,Motor Shaft,Finished Parts,659,424.12,279493.91,9/10/2024,Yes,0,7,1.06,Paid
+PO_00220,4/16/2023,SUP_040,Pinnacle Suppliers,PROD_016,Metal Frame,Hardware,22,256.78,5649.11,6/28/2023,Yes,0,4,18.18,Pending
+PO_00221,12/13/2024,SUP_010,Advanced Logistics,PROD_005,Plastic Housing,Components,165,152.75,25203.57,2/25/2025,Yes,0,20,12.12,Paid
+PO_00222,9/27/2024,SUP_003,Quality Suppliers Ltd,PROD_001,Steel Bolts,Hardware,278,357.55,99397.92,11/23/2024,Yes,0,30,10.79,Paid
+PO_00223,11/12/2024,SUP_019,Century Components,PROD_014,Circuit Board,Finished Parts,527,428.74,225944.02,1/22/2025,Yes,0,50,9.49,Overdue
+PO_00224,6/14/2024,SUP_028,Superior Parts,PROD_003,Copper Wire,Raw Materials,402,207.12,83262.65,8/21/2024,Yes,0,64,15.92,Paid
+PO_00225,2/27/2024,SUP_018,Dynamic Materials,PROD_004,Rubber Gasket,Components,500,435.74,217871.55,3/15/2024,No,9,44,8.8,Paid
+PO_00226,10/10/2023,SUP_027,Continental Materials,PROD_001,Steel Bolts,Hardware,69,282.76,19510.61,11/27/2023,No,6,4,5.8,Paid
+PO_00227,6/5/2023,SUP_048,Xenon Suppliers,PROD_010,Control Panel,Finished Parts,897,307.19,275550.65,9/7/2023,Yes,0,32,3.57,Paid
+PO_00228,8/21/2023,SUP_013,Tech Components Ltd,PROD_014,Circuit Board,Finished Parts,954,353.35,337091.87,8/29/2023,Yes,0,14,1.47,Paid
+PO_00229,5/12/2024,SUP_028,Superior Parts,PROD_020,Battery Cell,Raw Materials,181,211.02,38194.41,7/14/2024,No,7,33,18.23,Paid
+PO_00230,4/7/2024,SUP_010,Advanced Logistics,PROD_019,Insulation Material,Finished Parts,679,141.96,96390.27,6/30/2024,Yes,0,65,9.57,Paid
+PO_00231,8/11/2023,SUP_019,Century Components,PROD_013,Connector Cable,Finished Parts,757,503.01,380781.56,10/12/2023,No,0,76,10.04,Paid
+PO_00232,5/1/2023,SUP_040,Pinnacle Suppliers,PROD_006,Electronic Component A,Raw Materials,222,259.6,57630.21,7/11/2023,Yes,0,26,11.71,Paid
+PO_00233,1/23/2024,SUP_007,Elite Industries,PROD_020,Battery Cell,Raw Materials,410,14.28,5855.16,3/30/2024,Yes,0,51,12.44,Pending
+PO_00234,1/6/2024,SUP_045,Velocity Supply,PROD_019,Insulation Material,Finished Parts,931,277.25,258115.25,4/8/2024,Yes,0,127,13.64,Paid
+PO_00235,3/28/2024,SUP_011,Reliable Vendors,PROD_024,Transformer Core,Raw Materials,898,11.05,9924.13,5/22/2024,Yes,0,114,12.69,Paid
+PO_00236,9/25/2023,SUP_031,Innovation Partners,PROD_009,Motor Shaft,Finished Parts,406,431.95,175372.75,10/2/2023,Yes,0,59,14.53,Pending
+PO_00237,6/28/2023,SUP_035,Nexus Components,PROD_014,Circuit Board,Finished Parts,929,332.23,308644.51,9/3/2023,Yes,0,118,12.7,Pending
+PO_00238,4/21/2023,SUP_040,Pinnacle Suppliers,PROD_005,Plastic Housing,Components,884,226.16,199921.47,6/25/2023,No,0,123,13.91,Pending
+PO_00239,5/4/2023,SUP_044,Stellar Parts,PROD_022,Relay Unit,Hardware,159,344.08,54708.54,7/27/2023,Yes,0,6,3.77,Paid
+PO_00240,5/12/2024,SUP_029,Expert Vendors,PROD_009,Motor Shaft,Finished Parts,94,545.36,51263.82,5/17/2024,Yes,0,20,21.28,Paid
+PO_00241,1/3/2023,SUP_002,FastParts Co,PROD_017,Composite Panel,Components,223,546.85,121946.7,3/26/2023,Yes,0,21,9.42,Paid
+PO_00242,3/22/2024,SUP_008,NextGen Suppliers,PROD_006,Electronic Component A,Raw Materials,393,246.63,96923.92,4/3/2024,Yes,0,23,5.85,Overdue
+PO_00243,2/7/2024,SUP_050,Zephyr Components,PROD_007,Electronic Component B,Components,679,481.19,326724.66,4/16/2024,Yes,0,42,6.19,Paid
+PO_00244,9/23/2023,SUP_014,PrecisionParts Inc,PROD_009,Motor Shaft,Finished Parts,147,404.91,59521.13,12/8/2023,No,10,20,13.61,Paid
+PO_00245,2/15/2024,SUP_043,Quantum Suppliers,PROD_004,Rubber Gasket,Components,149,68.05,10139.76,3/17/2024,Yes,0,17,11.41,Paid
+PO_00246,8/27/2023,SUP_001,Global Materials Inc,PROD_007,Electronic Component B,Components,499,343.92,171618.54,10/26/2023,No,7,37,7.41,Pending
+PO_00247,8/28/2024,SUP_030,Consolidated Supply,PROD_020,Battery Cell,Raw Materials,379,506.34,191902.73,9/8/2024,Yes,0,30,7.92,Paid
+PO_00248,7/7/2023,SUP_022,Integrated Solutions,PROD_012,Power Supply,Finished Parts,72,192.47,13857.75,7/26/2023,Yes,0,6,8.33,Overdue
+PO_00249,3/18/2024,SUP_027,Continental Materials,PROD_009,Motor Shaft,Finished Parts,312,260.24,81194.69,5/12/2024,Yes,0,11,3.53,Pending
+PO_00250,6/7/2023,SUP_026,Unified Suppliers,PROD_007,Electronic Component B,Components,766,129.82,99444.32,9/16/2023,Yes,0,55,7.18,Paid
+PO_00251,5/2/2023,SUP_035,Nexus Components,PROD_019,Insulation Material,Finished Parts,158,347.9,54968.71,7/11/2023,Yes,0,17,10.76,Paid
+PO_00252,2/10/2023,SUP_043,Quantum Suppliers,PROD_002,Aluminum Sheet,Finished Parts,759,72.62,55116.67,2/26/2023,Yes,0,62,8.17,Paid
+PO_00253,8/21/2024,SUP_018,Dynamic Materials,PROD_004,Rubber Gasket,Components,318,496.52,157894.6,9/8/2024,Yes,0,35,11.01,Paid
+PO_00254,1/27/2024,SUP_009,Standard Parts Co,PROD_021,Switch Assembly,Finished Parts,764,226.78,173256.4,3/1/2024,Yes,0,24,3.14,Paid
+PO_00255,1/22/2024,SUP_032,Streamline Supply,PROD_006,Electronic Component A,Raw Materials,392,117.06,45886.58,3/27/2024,Yes,0,9,2.3,Paid
+PO_00256,8/28/2023,SUP_002,FastParts Co,PROD_012,Power Supply,Finished Parts,474,487.02,230847.09,11/18/2023,No,14,50,10.55,Pending
+PO_00257,7/5/2023,SUP_021,Efficient Supply,PROD_003,Copper Wire,Raw Materials,57,52.26,2978.76,9/3/2023,Yes,0,6,10.53,Paid
+PO_00258,9/11/2023,SUP_005,Premier Components,PROD_005,Plastic Housing,Components,394,174.85,68892.4,11/28/2023,Yes,0,35,8.88,Pending
+PO_00259,5/26/2023,SUP_021,Efficient Supply,PROD_013,Connector Cable,Finished Parts,239,57.76,13805.24,7/27/2023,Yes,0,14,5.86,Paid
+PO_00260,7/3/2024,SUP_015,Global Traders,PROD_006,Electronic Component A,Raw Materials,565,280.81,158659.87,8/3/2024,No,11,36,6.37,Paid
+PO_00261,2/15/2023,SUP_036,Alliance Suppliers,PROD_003,Copper Wire,Raw Materials,733,67.27,49311.47,3/8/2023,Yes,0,111,15.14,Pending
+PO_00262,5/27/2024,SUP_032,Streamline Supply,PROD_016,Metal Frame,Hardware,139,136.92,19032.31,7/22/2024,Yes,0,6,4.32,Paid
+PO_00263,5/13/2023,SUP_001,Global Materials Inc,PROD_021,Switch Assembly,Finished Parts,458,334.51,153207.44,7/14/2023,No,9,23,5.02,Paid
+PO_00264,9/12/2023,SUP_050,Zephyr Components,PROD_018,Thermal Paste,Electronics,185,424.66,78561.9,11/7/2023,No,0,18,9.73,Paid
+PO_00265,6/13/2023,SUP_001,Global Materials Inc,PROD_018,Thermal Paste,Electronics,788,276.27,217700.46,8/15/2023,Yes,0,46,5.84,Paid
+PO_00266,10/13/2024,SUP_048,Xenon Suppliers,PROD_013,Connector Cable,Finished Parts,442,337,148954.07,1/19/2025,Yes,0,27,6.11,Paid
+PO_00267,7/25/2023,SUP_045,Velocity Supply,PROD_016,Metal Frame,Hardware,149,258.33,38490.83,10/23/2023,Yes,0,17,11.41,Paid
+PO_00268,6/22/2023,SUP_028,Superior Parts,PROD_010,Control Panel,Finished Parts,617,191.92,118417.14,8/15/2023,Yes,0,86,13.94,Paid
+PO_00269,5/12/2024,SUP_014,PrecisionParts Inc,PROD_002,Aluminum Sheet,Finished Parts,615,424.47,261046.51,7/21/2024,No,4,70,11.38,Overdue
+PO_00270,7/29/2023,SUP_039,Harmony Supply,PROD_013,Connector Cable,Finished Parts,522,410.44,214252.13,10/12/2023,Yes,0,63,12.07,Paid
+PO_00271,3/10/2024,SUP_003,Quality Suppliers Ltd,PROD_010,Control Panel,Finished Parts,813,326.3,265279.76,5/3/2024,Yes,0,102,12.55,Paid
+PO_00272,10/4/2023,SUP_046,Universal Materials,PROD_024,Transformer Core,Raw Materials,81,121.92,9875.58,12/18/2023,Yes,0,10,12.35,Paid
+PO_00273,8/5/2024,SUP_018,Dynamic Materials,PROD_012,Power Supply,Finished Parts,13,510.96,6642.45,8/14/2024,Yes,0,1,7.69,Paid
+PO_00274,8/9/2024,SUP_034,Precision Suppliers,PROD_017,Composite Panel,Components,210,23.53,4940.46,10/4/2024,No,0,26,12.38,Pending
+PO_00275,7/17/2024,SUP_027,Continental Materials,PROD_021,Switch Assembly,Finished Parts,637,302.26,192539.33,8/23/2024,No,0,29,4.55,Paid
+PO_00276,10/16/2024,SUP_015,Global Traders,PROD_022,Relay Unit,Hardware,534,301.32,160902.8,11/17/2024,Yes,0,38,7.12,Paid
+PO_00277,3/23/2023,SUP_048,Xenon Suppliers,PROD_001,Steel Bolts,Hardware,97,286.55,27795.54,6/30/2023,No,13,2,2.06,Paid
+PO_00278,1/6/2024,SUP_040,Pinnacle Suppliers,PROD_017,Composite Panel,Components,121,285.58,34555.24,3/12/2024,Yes,0,15,12.4,Paid
+PO_00279,7/25/2023,SUP_024,Direct Supply,PROD_003,Copper Wire,Raw Materials,685,344.96,236295.83,9/4/2023,Yes,0,20,2.92,Overdue
+PO_00280,5/15/2024,SUP_042,Apex Components,PROD_015,Fastener Kit,Electronics,671,366.04,245613.7,7/19/2024,Yes,0,48,7.15,Paid
+PO_00281,4/10/2023,SUP_009,Standard Parts Co,PROD_021,Switch Assembly,Finished Parts,114,211.35,24093.9,5/2/2023,Yes,0,1,0.88,Overdue
+PO_00282,3/10/2024,SUP_001,Global Materials Inc,PROD_015,Fastener Kit,Electronics,242,308.26,74599.82,5/2/2024,Yes,0,11,4.55,Paid
+PO_00283,11/1/2023,SUP_020,Strategic Partners,PROD_012,Power Supply,Finished Parts,447,211.54,94558.61,1/23/2024,Yes,0,10,2.24,Paid
+PO_00284,4/7/2023,SUP_007,Elite Industries,PROD_016,Metal Frame,Hardware,56,15.05,842.94,6/4/2023,Yes,0,9,16.07,Paid
+PO_00285,9/1/2024,SUP_001,Global Materials Inc,PROD_014,Circuit Board,Finished Parts,225,306.07,68866.09,11/1/2024,No,8,13,5.78,Paid
+PO_00286,4/24/2023,SUP_018,Dynamic Materials,PROD_015,Fastener Kit,Electronics,496,424.88,210741.75,5/8/2023,Yes,0,49,9.88,Paid
+PO_00287,11/11/2024,SUP_009,Standard Parts Co,PROD_024,Transformer Core,Raw Materials,257,188.67,48487.18,12/11/2024,No,3,13,5.06,Paid
+PO_00288,9/13/2023,SUP_008,NextGen Suppliers,PROD_001,Steel Bolts,Hardware,692,235.03,162639,10/10/2023,Yes,0,35,5.06,Paid
+PO_00289,12/18/2023,SUP_002,FastParts Co,PROD_016,Metal Frame,Hardware,172,555.1,95476.53,2/25/2024,Yes,0,20,11.63,Overdue
+PO_00290,2/13/2023,SUP_029,Expert Vendors,PROD_024,Transformer Core,Raw Materials,602,465.77,280391.31,2/19/2023,No,0,74,12.29,Overdue
+PO_00291,8/10/2024,SUP_012,Industrial Solutions,PROD_014,Circuit Board,Finished Parts,39,117.71,4590.66,9/17/2024,Yes,0,2,5.13,Paid
+PO_00292,6/25/2024,SUP_027,Continental Materials,PROD_012,Power Supply,Finished Parts,456,269.63,122949.76,8/19/2024,No,13,10,2.19,Pending
+PO_00293,12/8/2024,SUP_043,Quantum Suppliers,PROD_021,Switch Assembly,Finished Parts,325,69.87,22708.57,1/8/2025,Yes,0,27,8.31,Paid
+PO_00294,7/5/2023,SUP_039,Harmony Supply,PROD_010,Control Panel,Finished Parts,384,476.56,182998.2,9/18/2023,Yes,0,58,15.1,Paid
+PO_00295,11/20/2024,SUP_005,Premier Components,PROD_021,Switch Assembly,Finished Parts,782,156.57,122440.37,1/26/2025,Yes,0,48,6.14,Paid
+PO_00296,5/12/2023,SUP_024,Direct Supply,PROD_006,Electronic Component A,Raw Materials,402,359.52,144527.6,7/6/2023,No,14,6,1.49,Paid
+PO_00297,2/8/2023,SUP_014,PrecisionParts Inc,PROD_014,Circuit Board,Finished Parts,20,412.15,8243.08,4/21/2023,Yes,0,4,20,Paid
+PO_00298,7/10/2024,SUP_011,Reliable Vendors,PROD_018,Thermal Paste,Electronics,590,12.03,7099.89,9/2/2024,Yes,0,83,14.07,Pending
+PO_00299,11/20/2024,SUP_034,Precision Suppliers,PROD_016,Metal Frame,Hardware,687,23.96,16459.15,1/24/2025,Yes,0,60,8.73,Paid
+PO_00300,9/8/2023,SUP_011,Reliable Vendors,PROD_002,Aluminum Sheet,Finished Parts,491,11.69,5739.35,10/27/2023,Yes,0,77,15.68,Paid
+PO_00301,4/6/2024,SUP_020,Strategic Partners,PROD_010,Control Panel,Finished Parts,866,232.49,201336.1,7/6/2024,Yes,0,30,3.46,Pending
+PO_00302,5/7/2024,SUP_004,EcoSource Materials,PROD_004,Rubber Gasket,Components,189,166.58,31483.5,7/7/2024,Yes,0,5,2.65,Paid
+PO_00303,6/13/2023,SUP_009,Standard Parts Co,PROD_010,Control Panel,Finished Parts,13,228.34,2968.44,7/13/2023,Yes,0,0,0,Paid
+PO_00304,10/28/2024,SUP_018,Dynamic Materials,PROD_002,Aluminum Sheet,Finished Parts,92,449.6,41363.04,11/4/2024,Yes,0,13,14.13,Paid
+PO_00305,11/15/2024,SUP_034,Precision Suppliers,PROD_005,Plastic Housing,Components,858,25.32,21723.92,1/17/2025,Yes,0,101,11.77,Paid
+PO_00306,4/12/2023,SUP_010,Advanced Logistics,PROD_016,Metal Frame,Hardware,845,172.86,146068.7,7/7/2023,No,7,90,10.65,Paid
+PO_00307,7/16/2024,SUP_033,Optimal Materials,PROD_002,Aluminum Sheet,Finished Parts,373,156.94,58537.2,7/24/2024,No,0,15,4.02,Paid
+PO_00308,10/27/2024,SUP_009,Standard Parts Co,PROD_017,Composite Panel,Components,917,206.28,189156.12,11/28/2024,Yes,0,25,2.73,Paid
+PO_00309,11/2/2023,SUP_012,Industrial Solutions,PROD_014,Circuit Board,Finished Parts,401,106.03,42516.32,12/2/2023,Yes,0,14,3.49,Overdue
+PO_00310,3/3/2024,SUP_028,Superior Parts,PROD_019,Insulation Material,Finished Parts,434,192.94,83738.07,5/4/2024,Yes,0,62,14.29,Paid
+PO_00311,8/20/2024,SUP_023,Modern Materials,PROD_003,Copper Wire,Raw Materials,721,317.99,229267.24,10/8/2024,Yes,0,28,3.88,Paid
+PO_00312,12/20/2023,SUP_040,Pinnacle Suppliers,PROD_021,Switch Assembly,Finished Parts,805,225.67,181667.94,2/27/2024,Yes,0,121,15.03,Paid
+PO_00313,3/29/2023,SUP_038,Summit Components,PROD_019,Insulation Material,Finished Parts,981,118.91,116647.08,5/18/2023,Yes,0,134,13.66,Pending
+PO_00314,9/9/2024,SUP_001,Global Materials Inc,PROD_009,Motor Shaft,Finished Parts,351,285.39,100173.04,11/10/2024,Yes,0,14,3.99,Paid
+PO_00315,5/14/2023,SUP_039,Harmony Supply,PROD_006,Electronic Component A,Raw Materials,508,533.51,271022.04,8/7/2023,Yes,0,73,14.37,Pending
+PO_00316,2/8/2024,SUP_004,EcoSource Materials,PROD_021,Switch Assembly,Finished Parts,602,169.73,102179.2,4/22/2024,Yes,0,14,2.33,Paid
+PO_00317,6/13/2024,SUP_027,Continental Materials,PROD_018,Thermal Paste,Electronics,411,270.73,111270.36,7/31/2024,Yes,0,16,3.89,Pending
+PO_00318,8/18/2024,SUP_006,Rapid Supply Chain,PROD_023,Capacitor Bank,Finished Parts,285,85.2,24281.1,9/1/2024,Yes,0,26,9.12,Paid
+PO_00319,3/20/2023,SUP_025,Premium Components,PROD_022,Relay Unit,Hardware,902,310.84,280373.9,6/9/2023,Yes,0,124,13.75,Paid
+PO_00320,2/28/2023,SUP_015,Global Traders,PROD_023,Capacitor Bank,Finished Parts,97,287.36,27873.79,3/22/2023,Yes,0,4,4.12,Paid
+PO_00321,10/19/2024,SUP_031,Innovation Partners,PROD_009,Motor Shaft,Finished Parts,644,337.37,217264.15,10/29/2024,Yes,0,105,16.3,Paid
+PO_00322,4/6/2024,SUP_008,NextGen Suppliers,PROD_009,Motor Shaft,Finished Parts,635,218.54,138770.19,4/18/2024,Yes,0,35,5.51,Paid
+PO_00323,2/17/2023,SUP_040,Pinnacle Suppliers,PROD_023,Capacitor Bank,Finished Parts,571,284.19,162272.13,4/21/2023,Yes,0,66,11.56,Paid
+PO_00324,10/18/2023,SUP_041,Zenith Materials,PROD_004,Rubber Gasket,Components,120,319.39,38326.66,11/5/2023,Yes,0,17,14.17,Pending
+PO_00325,4/21/2024,SUP_043,Quantum Suppliers,PROD_017,Composite Panel,Components,544,80.47,43777.41,5/13/2024,No,1,43,7.9,Paid
+PO_00326,3/25/2023,SUP_040,Pinnacle Suppliers,PROD_004,Rubber Gasket,Components,155,283.69,43972.3,6/4/2023,Yes,0,26,16.77,Paid
+PO_00327,4/30/2023,SUP_012,Industrial Solutions,PROD_018,Thermal Paste,Electronics,901,101.52,91468.73,5/30/2023,Yes,0,54,5.99,Pending
+PO_00328,2/23/2023,SUP_006,Rapid Supply Chain,PROD_007,Electronic Component B,Components,589,95.57,56292.24,3/7/2023,No,3,64,10.87,Paid
+PO_00329,4/29/2024,SUP_011,Reliable Vendors,PROD_020,Battery Cell,Raw Materials,206,11.41,2351.49,6/15/2024,Yes,0,32,15.53,Overdue
+PO_00330,8/17/2024,SUP_019,Century Components,PROD_006,Electronic Component A,Raw Materials,388,397.79,154340.85,10/29/2024,No,7,43,11.08,Paid
+PO_00331,4/20/2023,SUP_017,Professional Suppliers,PROD_013,Connector Cable,Finished Parts,686,365.86,250978.18,6/28/2023,Yes,0,83,12.1,Overdue
+PO_00332,6/6/2023,SUP_039,Harmony Supply,PROD_009,Motor Shaft,Finished Parts,864,508.38,439236.37,9/8/2023,Yes,0,96,11.11,Paid
+PO_00333,1/21/2023,SUP_025,Premium Components,PROD_001,Steel Bolts,Hardware,773,312,241176.71,4/12/2023,Yes,0,107,13.84,Paid
+PO_00334,7/14/2024,SUP_006,Rapid Supply Chain,PROD_004,Rubber Gasket,Components,978,94.3,92230.19,8/1/2024,Yes,0,99,10.12,Paid
+PO_00335,3/14/2024,SUP_020,Strategic Partners,PROD_024,Transformer Core,Raw Materials,268,228.6,61265.87,6/6/2024,Yes,0,12,4.48,Pending
+PO_00336,1/31/2024,SUP_024,Direct Supply,PROD_008,Bearing Unit,Raw Materials,113,364.27,41163.04,3/9/2024,Yes,0,1,0.88,Paid
+PO_00337,8/17/2023,SUP_046,Universal Materials,PROD_019,Insulation Material,Finished Parts,794,120.26,95486.15,11/4/2023,Yes,0,132,16.62,Paid
+PO_00338,1/29/2024,SUP_023,Modern Materials,PROD_020,Battery Cell,Raw Materials,284,342.01,97129.75,3/19/2024,Yes,0,9,3.17,Pending
+PO_00339,2/6/2024,SUP_016,Smart Supply,PROD_024,Transformer Core,Raw Materials,184,524.66,96537.94,3/4/2024,Yes,0,13,7.07,Pending
+PO_00340,10/18/2023,SUP_035,Nexus Components,PROD_012,Power Supply,Finished Parts,48,329.46,15814.26,12/31/2023,Yes,0,5,10.42,Overdue
+PO_00341,10/12/2023,SUP_011,Reliable Vendors,PROD_004,Rubber Gasket,Components,552,11.31,6243.22,12/8/2023,Yes,0,61,11.05,Paid
+PO_00342,8/15/2024,SUP_025,Premium Components,PROD_016,Metal Frame,Hardware,416,344.58,143343.78,11/20/2024,Yes,0,69,16.59,Paid
+PO_00343,5/1/2024,SUP_017,Professional Suppliers,PROD_007,Electronic Component B,Components,154,376.36,57959.13,7/11/2024,Yes,0,19,12.34,Paid
+PO_00344,7/25/2023,SUP_035,Nexus Components,PROD_012,Power Supply,Finished Parts,419,375.88,157494.33,9/30/2023,No,0,54,12.89,Paid
+PO_00345,4/14/2023,SUP_038,Summit Components,PROD_023,Capacitor Bank,Finished Parts,932,111.23,103662.32,6/6/2023,Yes,0,137,14.7,Pending
+PO_00346,11/21/2023,SUP_028,Superior Parts,PROD_009,Motor Shaft,Finished Parts,160,180.22,28835.64,1/25/2024,Yes,0,28,17.5,Paid
+PO_00347,6/3/2023,SUP_015,Global Traders,PROD_019,Insulation Material,Finished Parts,771,346.54,267179.02,7/6/2023,No,13,49,6.36,Overdue
+PO_00348,12/24/2023,SUP_049,Yearlong Materials,PROD_011,LED Assembly,Raw Materials,87,397.54,34585.98,3/21/2024,Yes,0,10,11.49,Paid
+PO_00349,10/23/2023,SUP_007,Elite Industries,PROD_025,Wiring Harness,Hardware,546,15.16,8277.66,12/18/2023,Yes,0,69,12.64,Pending
+PO_00350,8/22/2023,SUP_002,FastParts Co,PROD_001,Steel Bolts,Hardware,553,556.48,307732.07,10/27/2023,Yes,0,64,11.57,Paid
+PO_00351,5/23/2024,SUP_030,Consolidated Supply,PROD_008,Bearing Unit,Raw Materials,517,502.24,259655.52,6/2/2024,Yes,0,50,9.67,Paid
+PO_00352,12/5/2023,SUP_010,Advanced Logistics,PROD_007,Electronic Component B,Components,881,179.9,158493.7,2/21/2024,Yes,0,98,11.12,Paid
+PO_00353,11/12/2023,SUP_019,Century Components,PROD_011,LED Assembly,Raw Materials,621,386.44,239978.34,1/12/2024,Yes,0,77,12.4,Paid
+PO_00354,5/31/2024,SUP_036,Alliance Suppliers,PROD_001,Steel Bolts,Hardware,695,59.09,41068.98,6/19/2024,Yes,0,90,12.95,Paid
+PO_00355,12/23/2023,SUP_042,Apex Components,PROD_007,Electronic Component B,Components,472,359.28,169579.32,2/19/2024,Yes,0,55,11.65,Paid
+PO_00356,7/4/2024,SUP_048,Xenon Suppliers,PROD_004,Rubber Gasket,Components,920,327.33,301145.65,9/30/2024,Yes,0,45,4.89,Paid
+PO_00357,3/12/2024,SUP_019,Century Components,PROD_019,Insulation Material,Finished Parts,861,485.68,418168.07,5/18/2024,Yes,0,94,10.92,Pending
+PO_00358,12/20/2023,SUP_025,Premium Components,PROD_003,Copper Wire,Raw Materials,939,278.99,261968.66,3/19/2024,Yes,0,153,16.29,Pending
+PO_00359,7/25/2023,SUP_017,Professional Suppliers,PROD_017,Composite Panel,Components,878,359.28,315445.56,10/2/2023,No,10,106,12.07,Paid
+PO_00360,9/16/2024,SUP_001,Global Materials Inc,PROD_007,Electronic Component B,Components,487,350.7,170789.09,11/19/2024,No,11,27,5.54,Paid
+PO_00361,6/5/2024,SUP_037,Frontier Materials,PROD_019,Insulation Material,Finished Parts,973,245.7,239069.39,8/1/2024,Yes,0,61,6.27,Paid
+PO_00362,7/6/2024,SUP_043,Quantum Suppliers,PROD_016,Metal Frame,Hardware,552,88.7,48962.11,7/30/2024,Yes,0,49,8.88,Paid
+PO_00363,4/18/2024,SUP_019,Century Components,PROD_014,Circuit Board,Finished Parts,403,456.44,183945.46,7/7/2024,Yes,0,48,11.91,Pending
+PO_00364,5/17/2024,SUP_034,Precision Suppliers,PROD_025,Wiring Harness,Hardware,860,25.99,22354.81,7/11/2024,Yes,0,87,10.12,Pending
+PO_00365,9/23/2023,SUP_049,Yearlong Materials,PROD_023,Capacitor Bank,Finished Parts,84,390.19,32775.83,12/19/2023,No,0,9,10.71,Paid
+PO_00366,3/12/2024,SUP_007,Elite Industries,PROD_016,Metal Frame,Hardware,994,14.4,14309.64,5/12/2024,Yes,0,108,10.87,Paid
+PO_00367,3/26/2024,SUP_019,Century Components,PROD_018,Thermal Paste,Electronics,352,425.54,149789.86,6/7/2024,Yes,0,39,11.08,Paid
+PO_00368,9/20/2024,SUP_012,Industrial Solutions,PROD_015,Fastener Kit,Electronics,981,112.75,110612.14,10/21/2024,Yes,0,56,5.71,Paid
+PO_00369,10/4/2024,SUP_043,Quantum Suppliers,PROD_014,Circuit Board,Finished Parts,703,74.62,52459.61,11/7/2024,Yes,0,55,7.82,Paid
+PO_00370,8/19/2024,SUP_032,Streamline Supply,PROD_002,Aluminum Sheet,Finished Parts,44,110.86,4877.97,10/22/2024,Yes,0,2,4.55,Paid
+PO_00371,12/18/2024,SUP_032,Streamline Supply,PROD_016,Metal Frame,Hardware,635,123.24,78255.4,2/18/2025,Yes,0,19,2.99,Pending
+PO_00372,3/7/2023,SUP_034,Precision Suppliers,PROD_008,Bearing Unit,Raw Materials,414,26.07,10791.28,5/19/2023,Yes,0,41,9.9,Paid
+PO_00373,11/25/2023,SUP_027,Continental Materials,PROD_016,Metal Frame,Hardware,917,327.54,300350.09,1/7/2024,Yes,0,41,4.47,Paid
+PO_00374,6/22/2024,SUP_020,Strategic Partners,PROD_022,Relay Unit,Hardware,658,220.6,145157.04,9/21/2024,Yes,0,20,3.04,Paid
+PO_00375,1/22/2023,SUP_050,Zephyr Components,PROD_022,Relay Unit,Hardware,354,508.54,180022.68,3/25/2023,Yes,0,23,6.5,Paid
+PO_00376,1/29/2024,SUP_047,Wavelength Components,PROD_016,Metal Frame,Hardware,928,533.1,494720.25,3/18/2024,Yes,0,36,3.88,Pending
+PO_00377,9/18/2024,SUP_010,Advanced Logistics,PROD_019,Insulation Material,Finished Parts,687,157.29,108057.77,12/6/2024,No,0,69,10.04,Pending
+PO_00378,11/26/2023,SUP_041,Zenith Materials,PROD_012,Power Supply,Finished Parts,234,294.73,68967.35,12/23/2023,Yes,0,31,13.25,Paid
+PO_00379,6/21/2023,SUP_004,EcoSource Materials,PROD_019,Insulation Material,Finished Parts,27,146.44,3953.75,9/3/2023,Yes,0,1,3.7,Paid
+PO_00380,12/12/2023,SUP_015,Global Traders,PROD_015,Fastener Kit,Electronics,856,328.07,280827.64,1/15/2024,Yes,0,37,4.32,Paid
+PO_00381,1/30/2023,SUP_025,Premium Components,PROD_012,Power Supply,Finished Parts,356,322.47,114798.72,5/1/2023,Yes,0,51,14.33,Paid
+PO_00382,1/15/2024,SUP_041,Zenith Materials,PROD_023,Capacitor Bank,Finished Parts,270,261.95,70726.72,2/13/2024,Yes,0,38,14.07,Paid
+PO_00383,2/3/2023,SUP_023,Modern Materials,PROD_016,Metal Frame,Hardware,833,394.7,328784.19,3/25/2023,No,0,33,3.96,Pending
+PO_00384,9/26/2024,SUP_018,Dynamic Materials,PROD_008,Bearing Unit,Raw Materials,799,442.48,353540.59,10/11/2024,Yes,0,75,9.39,Overdue
+PO_00385,9/12/2023,SUP_001,Global Materials Inc,PROD_007,Electronic Component B,Components,465,325.31,151267.55,11/6/2023,Yes,0,21,4.52,Paid
+PO_00386,3/2/2023,SUP_047,Wavelength Components,PROD_014,Circuit Board,Finished Parts,982,503.6,494537.05,4/22/2023,Yes,0,43,4.38,Paid
+PO_00387,9/5/2024,SUP_004,EcoSource Materials,PROD_010,Control Panel,Finished Parts,658,168.91,111142.11,11/4/2024,Yes,0,18,2.74,Pending
+PO_00388,9/19/2023,SUP_047,Wavelength Components,PROD_003,Copper Wire,Raw Materials,240,508.98,122155.91,11/4/2023,Yes,0,9,3.75,Pending
+PO_00389,11/10/2024,SUP_036,Alliance Suppliers,PROD_021,Switch Assembly,Finished Parts,664,54.01,35865.25,12/2/2024,Yes,0,88,13.25,Paid
+PO_00390,6/13/2023,SUP_049,Yearlong Materials,PROD_007,Electronic Component B,Components,653,323.82,211452.4,9/21/2023,Yes,0,55,8.42,Pending
+PO_00391,11/5/2023,SUP_043,Quantum Suppliers,PROD_008,Bearing Unit,Raw Materials,991,78.38,77673.36,12/6/2023,Yes,0,81,8.17,Paid
+PO_00392,12/1/2024,SUP_048,Xenon Suppliers,PROD_019,Insulation Material,Finished Parts,55,332.69,18297.88,3/9/2025,Yes,0,0,0,Pending
+PO_00393,8/8/2024,SUP_011,Reliable Vendors,PROD_024,Transformer Core,Raw Materials,581,12.47,7246.68,10/5/2024,Yes,0,70,12.05,Paid
+PO_00394,9/14/2023,SUP_021,Efficient Supply,PROD_009,Motor Shaft,Finished Parts,209,48.05,10043.14,11/5/2023,Yes,0,18,8.61,Paid
+PO_00395,7/30/2023,SUP_031,Innovation Partners,PROD_021,Switch Assembly,Finished Parts,618,381.71,235895.75,8/22/2023,Yes,0,77,12.46,Pending
+PO_00396,2/1/2024,SUP_025,Premium Components,PROD_017,Composite Panel,Components,758,333.85,253060.81,5/7/2024,Yes,0,114,15.04,Paid
+PO_00397,6/23/2024,SUP_017,Professional Suppliers,PROD_008,Bearing Unit,Raw Materials,900,337.8,304020.4,8/19/2024,No,0,125,13.89,Paid
+PO_00398,7/25/2024,SUP_047,Wavelength Components,PROD_013,Connector Cable,Finished Parts,619,450.52,278874.53,9/6/2024,Yes,0,32,5.17,Paid
+PO_00399,11/11/2023,SUP_048,Xenon Suppliers,PROD_011,LED Assembly,Raw Materials,551,333.64,183836.1,2/3/2024,Yes,0,25,4.54,Paid
+PO_00400,2/13/2023,SUP_008,NextGen Suppliers,PROD_024,Transformer Core,Raw Materials,313,200.94,62894.54,3/3/2023,Yes,0,13,4.15,Paid
+PO_00401,3/26/2024,SUP_024,Direct Supply,PROD_008,Bearing Unit,Raw Materials,960,316.25,303604.77,5/11/2024,Yes,0,20,2.08,Paid
+PO_00402,7/26/2024,SUP_001,Global Materials Inc,PROD_024,Transformer Core,Raw Materials,412,315.33,129915.99,9/27/2024,Yes,0,23,5.58,Pending
+PO_00403,2/17/2023,SUP_028,Superior Parts,PROD_002,Aluminum Sheet,Finished Parts,754,198.74,149848.25,4/22/2023,No,8,117,15.52,Paid
+PO_00404,2/16/2023,SUP_048,Xenon Suppliers,PROD_020,Battery Cell,Raw Materials,86,333.79,28706.17,5/26/2023,No,13,1,1.16,Paid
+PO_00405,12/31/2023,SUP_045,Velocity Supply,PROD_017,Composite Panel,Components,95,309.1,29364.73,3/27/2024,Yes,0,13,13.68,Paid
+PO_00406,2/2/2023,SUP_030,Consolidated Supply,PROD_006,Electronic Component A,Raw Materials,908,407.18,369718.61,2/10/2023,Yes,0,75,8.26,Paid
+PO_00407,7/7/2024,SUP_007,Elite Industries,PROD_013,Connector Cable,Finished Parts,745,11.81,8795.37,9/16/2024,Yes,0,90,12.08,Paid
+PO_00408,1/18/2024,SUP_034,Precision Suppliers,PROD_018,Thermal Paste,Electronics,814,29.93,24364.22,3/22/2024,Yes,0,70,8.6,Paid
+PO_00409,5/12/2023,SUP_050,Zephyr Components,PROD_005,Plastic Housing,Components,366,482.54,176609.77,7/21/2023,No,11,22,6.01,Pending
+PO_00410,10/23/2023,SUP_013,Tech Components Ltd,PROD_001,Steel Bolts,Hardware,250,398.19,99547.93,10/30/2023,Yes,0,3,1.2,Overdue
+PO_00411,12/30/2023,SUP_014,PrecisionParts Inc,PROD_010,Control Panel,Finished Parts,898,414.73,372423.24,3/19/2024,Yes,0,145,16.15,Paid
+PO_00412,3/9/2024,SUP_027,Continental Materials,PROD_020,Battery Cell,Raw Materials,218,315.11,68692.91,4/24/2024,Yes,0,6,2.75,Paid
+PO_00413,8/30/2024,SUP_005,Premier Components,PROD_009,Motor Shaft,Finished Parts,522,164.48,85858.31,11/6/2024,Yes,0,26,4.98,Paid
+PO_00414,8/12/2024,SUP_017,Professional Suppliers,PROD_005,Plastic Housing,Components,225,312.35,70279.18,10/21/2024,Yes,0,26,11.56,Paid
+PO_00415,12/1/2023,SUP_032,Streamline Supply,PROD_014,Circuit Board,Finished Parts,20,125.57,2511.37,2/5/2024,No,6,0,0,Paid
+PO_00416,8/28/2024,SUP_017,Professional Suppliers,PROD_004,Rubber Gasket,Components,424,336.89,142840.23,10/24/2024,Yes,0,57,13.44,Paid
+PO_00417,9/23/2023,SUP_021,Efficient Supply,PROD_020,Battery Cell,Raw Materials,982,54.39,53411.59,11/20/2023,Yes,0,79,8.04,Overdue
+PO_00418,1/23/2023,SUP_029,Expert Vendors,PROD_007,Electronic Component B,Components,882,495.05,436632.53,2/8/2023,Yes,0,115,13.04,Paid
+PO_00419,12/16/2023,SUP_022,Integrated Solutions,PROD_007,Electronic Component B,Components,462,209.79,96922.9,1/6/2024,Yes,0,49,10.61,Paid
+PO_00420,12/6/2024,SUP_012,Industrial Solutions,PROD_013,Connector Cable,Finished Parts,690,93.46,64486.52,12/26/2024,Yes,0,42,6.09,Paid
+PO_00421,8/3/2024,SUP_014,PrecisionParts Inc,PROD_015,Fastener Kit,Electronics,389,429.94,167246.04,10/8/2024,Yes,0,55,14.14,Paid
+PO_00422,4/4/2024,SUP_032,Streamline Supply,PROD_014,Circuit Board,Finished Parts,500,130.1,65049.27,6/11/2024,No,8,9,1.8,Paid
+PO_00423,6/23/2024,SUP_048,Xenon Suppliers,PROD_016,Metal Frame,Hardware,715,356.45,254862.2,9/22/2024,Yes,0,34,4.76,Paid
+PO_00424,6/30/2024,SUP_045,Velocity Supply,PROD_009,Motor Shaft,Finished Parts,86,285.7,24570.23,9/25/2024,Yes,0,6,6.98,Paid
+PO_00425,9/28/2023,SUP_023,Modern Materials,PROD_007,Electronic Component B,Components,438,310.66,136069.87,11/23/2023,Yes,0,14,3.2,Paid
+PO_00426,9/18/2023,SUP_035,Nexus Components,PROD_002,Aluminum Sheet,Finished Parts,485,383.08,185792.1,12/6/2023,Yes,0,57,11.75,Paid
+PO_00427,6/24/2023,SUP_021,Efficient Supply,PROD_002,Aluminum Sheet,Finished Parts,97,57.84,5610.18,8/8/2023,Yes,0,11,11.34,Paid
+PO_00428,3/14/2024,SUP_043,Quantum Suppliers,PROD_008,Bearing Unit,Raw Materials,146,73.35,10709.02,4/14/2024,No,10,15,10.27,Paid
+PO_00429,10/12/2023,SUP_018,Dynamic Materials,PROD_012,Power Supply,Finished Parts,302,461.03,139230.91,10/17/2023,Yes,0,34,11.26,Overdue
+PO_00430,7/22/2023,SUP_005,Premier Components,PROD_019,Insulation Material,Finished Parts,311,148.14,46072.12,9/27/2023,Yes,0,24,7.72,Paid
+PO_00431,8/15/2024,SUP_038,Summit Components,PROD_007,Electronic Component B,Components,453,107.6,48743.73,10/4/2024,Yes,0,55,12.14,Paid
+PO_00432,5/27/2023,SUP_037,Frontier Materials,PROD_004,Rubber Gasket,Components,877,216.54,189903.92,7/12/2023,No,0,57,6.5,Paid
+PO_00433,12/7/2023,SUP_024,Direct Supply,PROD_006,Electronic Component A,Raw Materials,713,343.88,245187.45,1/29/2024,No,12,14,1.96,Paid
+PO_00434,1/14/2024,SUP_032,Streamline Supply,PROD_009,Motor Shaft,Finished Parts,691,127.63,88190.16,3/28/2024,Yes,0,17,2.46,Pending
+PO_00435,6/24/2023,SUP_002,FastParts Co,PROD_002,Aluminum Sheet,Finished Parts,243,502.42,122089.02,9/5/2023,Yes,0,30,12.35,Paid
+PO_00436,5/13/2023,SUP_047,Wavelength Components,PROD_003,Copper Wire,Raw Materials,511,494.61,252743.87,6/29/2023,Yes,0,18,3.52,Pending
+PO_00437,4/18/2024,SUP_041,Zenith Materials,PROD_007,Electronic Component B,Components,739,287.96,212802.9,5/6/2024,Yes,0,81,10.96,Pending
+PO_00438,1/18/2023,SUP_023,Modern Materials,PROD_020,Battery Cell,Raw Materials,234,392.27,91790.31,3/20/2023,Yes,0,4,1.71,Paid
+PO_00439,11/18/2024,SUP_013,Tech Components Ltd,PROD_004,Rubber Gasket,Components,776,383.89,297898.04,12/11/2024,Yes,0,10,1.29,Paid
+PO_00440,11/17/2023,SUP_018,Dynamic Materials,PROD_014,Circuit Board,Finished Parts,543,488.31,265151.79,11/20/2023,Yes,0,47,8.66,Paid
+PO_00441,9/30/2024,SUP_035,Nexus Components,PROD_012,Power Supply,Finished Parts,914,331.84,303304.64,12/19/2024,Yes,0,123,13.46,Pending
+PO_00442,1/3/2023,SUP_019,Century Components,PROD_009,Motor Shaft,Finished Parts,465,390.53,181597.55,3/9/2023,No,0,48,10.32,Paid
+PO_00443,7/26/2024,SUP_021,Efficient Supply,PROD_020,Battery Cell,Raw Materials,941,56.7,53354.23,9/25/2024,Yes,0,73,7.76,Pending
+PO_00444,6/8/2024,SUP_013,Tech Components Ltd,PROD_023,Capacitor Bank,Finished Parts,183,421.08,77057.51,6/27/2024,Yes,0,1,0.55,Paid
+PO_00445,2/6/2023,SUP_036,Alliance Suppliers,PROD_008,Bearing Unit,Raw Materials,973,61.13,59475.67,3/8/2023,Yes,0,122,12.54,Paid
+PO_00446,2/4/2024,SUP_044,Stellar Parts,PROD_025,Wiring Harness,Hardware,604,344.29,207953.24,4/27/2024,Yes,0,27,4.47,Overdue
+PO_00447,7/9/2024,SUP_020,Strategic Partners,PROD_002,Aluminum Sheet,Finished Parts,306,267.77,81937.22,9/29/2024,Yes,0,7,2.29,Paid
+PO_00448,9/13/2023,SUP_013,Tech Components Ltd,PROD_012,Power Supply,Finished Parts,543,399.17,216749.17,9/24/2023,Yes,0,10,1.84,Paid
+PO_00449,3/24/2023,SUP_033,Optimal Materials,PROD_023,Capacitor Bank,Finished Parts,541,157.47,85190.87,4/13/2023,Yes,0,29,5.36,Pending
+PO_00450,6/7/2024,SUP_031,Innovation Partners,PROD_014,Circuit Board,Finished Parts,989,402.15,397724.65,6/28/2024,No,9,124,12.54,Paid
+PO_00451,10/8/2024,SUP_023,Modern Materials,PROD_007,Electronic Component B,Components,977,363.04,354686.03,11/25/2024,Yes,0,34,3.48,Paid
+PO_00452,11/12/2024,SUP_012,Industrial Solutions,PROD_001,Steel Bolts,Hardware,651,112.26,73078.71,12/19/2024,Yes,0,33,5.07,Paid
+PO_00453,7/3/2024,SUP_032,Streamline Supply,PROD_012,Power Supply,Finished Parts,780,141.45,110328.66,9/8/2024,No,7,28,3.59,Paid
+PO_00454,11/11/2024,SUP_042,Apex Components,PROD_009,Motor Shaft,Finished Parts,85,380.48,32340.44,12/30/2024,Yes,0,11,12.94,Paid
+PO_00455,9/26/2024,SUP_036,Alliance Suppliers,PROD_015,Fastener Kit,Electronics,176,62.22,10950.59,10/16/2024,Yes,0,30,17.05,Paid
+PO_00456,7/31/2023,SUP_013,Tech Components Ltd,PROD_010,Control Panel,Finished Parts,759,333.25,252938.7,8/22/2023,No,12,13,1.71,Paid
+PO_00457,6/30/2024,SUP_013,Tech Components Ltd,PROD_007,Electronic Component B,Components,533,332.22,177070.89,7/20/2024,Yes,0,8,1.5,Paid
+PO_00458,9/2/2023,SUP_005,Premier Components,PROD_002,Aluminum Sheet,Finished Parts,33,144.94,4783.16,11/24/2023,Yes,0,3,9.09,Paid
+PO_00459,11/4/2024,SUP_040,Pinnacle Suppliers,PROD_003,Copper Wire,Raw Materials,187,270.7,50620.95,1/24/2025,Yes,0,28,14.97,Paid
+PO_00460,12/12/2024,SUP_022,Integrated Solutions,PROD_012,Power Supply,Finished Parts,675,179.1,120895.56,1/5/2025,Yes,0,79,11.7,Paid
+PO_00461,7/14/2023,SUP_038,Summit Components,PROD_003,Copper Wire,Raw Materials,83,95.73,7945.92,8/25/2023,Yes,0,11,13.25,Pending
+PO_00462,7/5/2024,SUP_015,Global Traders,PROD_008,Bearing Unit,Raw Materials,224,281.83,63128.82,7/22/2024,Yes,0,17,7.59,Paid
+PO_00463,2/10/2024,SUP_009,Standard Parts Co,PROD_016,Metal Frame,Hardware,517,240.41,124291.94,3/6/2024,Yes,0,11,2.13,Pending
+PO_00464,5/12/2023,SUP_037,Frontier Materials,PROD_006,Electronic Component A,Raw Materials,102,220.77,22518.07,6/27/2023,No,0,10,9.8,Paid
+PO_00465,2/22/2023,SUP_042,Apex Components,PROD_021,Switch Assembly,Finished Parts,786,417.89,328458.28,4/16/2023,Yes,0,71,9.03,Paid
+PO_00466,2/4/2024,SUP_033,Optimal Materials,PROD_017,Composite Panel,Components,408,133.5,54468.67,2/11/2024,Yes,0,21,5.15,Paid
+PO_00467,1/13/2024,SUP_021,Efficient Supply,PROD_003,Copper Wire,Raw Materials,442,53.59,23686.6,3/13/2024,Yes,0,37,8.37,Paid
+PO_00468,11/1/2023,SUP_001,Global Materials Inc,PROD_006,Electronic Component A,Raw Materials,526,278.77,146631.05,1/3/2024,Yes,0,29,5.51,Paid
+PO_00469,10/22/2023,SUP_013,Tech Components Ltd,PROD_018,Thermal Paste,Electronics,297,405.69,120488.55,11/4/2023,No,3,6,2.02,Paid
+PO_00470,3/17/2023,SUP_047,Wavelength Components,PROD_016,Metal Frame,Hardware,380,430.38,163544.75,4/27/2023,No,0,13,3.42,Paid
+PO_00471,7/31/2024,SUP_040,Pinnacle Suppliers,PROD_021,Switch Assembly,Finished Parts,765,218.27,166972.98,10/8/2024,Yes,0,96,12.55,Paid
+PO_00472,10/7/2023,SUP_009,Standard Parts Co,PROD_001,Steel Bolts,Hardware,726,216.86,157442.79,11/6/2023,Yes,0,31,4.27,Pending
+PO_00473,6/3/2024,SUP_043,Quantum Suppliers,PROD_019,Insulation Material,Finished Parts,781,66.71,52100.41,7/2/2024,Yes,0,76,9.73,Paid
+PO_00474,6/19/2024,SUP_050,Zephyr Components,PROD_019,Insulation Material,Finished Parts,172,514.52,88496.67,8/12/2024,Yes,0,9,5.23,Paid
+PO_00475,5/6/2023,SUP_043,Quantum Suppliers,PROD_020,Battery Cell,Raw Materials,719,87.08,62609.63,6/5/2023,Yes,0,65,9.04,Pending
+PO_00476,4/30/2024,SUP_020,Strategic Partners,PROD_023,Capacitor Bank,Finished Parts,561,251.92,141325.06,7/19/2024,Yes,0,13,2.32,Overdue
+PO_00477,2/17/2023,SUP_039,Harmony Supply,PROD_020,Battery Cell,Raw Materials,457,522.43,238750.07,5/7/2023,Yes,0,66,14.44,Paid
+PO_00478,2/26/2024,SUP_049,Yearlong Materials,PROD_006,Electronic Component A,Raw Materials,580,356.74,206909.64,6/4/2024,Yes,0,40,6.9,Overdue
+PO_00479,11/19/2023,SUP_005,Premier Components,PROD_005,Plastic Housing,Components,189,153.54,29019.64,2/9/2024,Yes,0,12,6.35,Overdue
+PO_00480,2/19/2024,SUP_025,Premium Components,PROD_021,Switch Assembly,Finished Parts,114,325.1,37061.74,5/16/2024,Yes,0,20,17.54,Paid
+PO_00481,1/19/2023,SUP_024,Direct Supply,PROD_012,Power Supply,Finished Parts,434,317.04,137596.86,3/2/2023,Yes,0,5,1.15,Paid
+PO_00482,5/5/2023,SUP_033,Optimal Materials,PROD_011,LED Assembly,Raw Materials,946,139.32,131798.62,5/27/2023,Yes,0,27,2.85,Paid
+PO_00483,8/25/2023,SUP_001,Global Materials Inc,PROD_011,LED Assembly,Raw Materials,135,307.1,41458.31,10/24/2023,Yes,0,4,2.96,Paid
+PO_00484,8/24/2023,SUP_038,Summit Components,PROD_008,Bearing Unit,Raw Materials,898,105.89,95087.11,10/9/2023,No,6,130,14.48,Paid
+PO_00485,10/5/2023,SUP_015,Global Traders,PROD_001,Steel Bolts,Hardware,258,322.25,83139.64,11/4/2023,Yes,0,19,7.36,Paid
+PO_00486,8/22/2024,SUP_021,Efficient Supply,PROD_006,Electronic Component A,Raw Materials,980,58.99,57811.71,10/6/2024,Yes,0,87,8.88,Pending
+PO_00487,7/20/2023,SUP_006,Rapid Supply Chain,PROD_020,Battery Cell,Raw Materials,904,87.38,78992.96,7/27/2023,No,0,94,10.4,Paid
+PO_00488,1/19/2024,SUP_042,Apex Components,PROD_018,Thermal Paste,Electronics,101,343.62,34705.15,3/24/2024,Yes,0,12,11.88,Pending
+PO_00489,7/24/2023,SUP_043,Quantum Suppliers,PROD_017,Composite Panel,Components,112,83.59,9362.44,8/16/2023,Yes,0,13,11.61,Pending
+PO_00490,8/5/2024,SUP_039,Harmony Supply,PROD_006,Electronic Component A,Raw Materials,391,476.27,186220.69,10/31/2024,Yes,0,50,12.79,Paid
+PO_00491,8/31/2023,SUP_037,Frontier Materials,PROD_002,Aluminum Sheet,Finished Parts,218,245.01,53411.25,11/1/2023,Yes,0,16,7.34,Paid
+PO_00492,4/6/2024,SUP_011,Reliable Vendors,PROD_017,Composite Panel,Components,58,13.21,766.42,5/26/2024,Yes,0,8,13.79,Paid
+PO_00493,10/28/2024,SUP_020,Strategic Partners,PROD_015,Fastener Kit,Electronics,813,219.1,178128.43,1/17/2025,Yes,0,13,1.6,Paid
+PO_00494,9/21/2024,SUP_010,Advanced Logistics,PROD_019,Insulation Material,Finished Parts,264,166.77,44027.69,12/18/2024,Yes,0,26,9.85,Paid
+PO_00495,1/30/2023,SUP_010,Advanced Logistics,PROD_022,Relay Unit,Hardware,355,160.27,56897.17,4/21/2023,Yes,0,43,12.11,Pending
+PO_00496,11/25/2023,SUP_031,Innovation Partners,PROD_005,Plastic Housing,Components,538,331.14,178154.11,12/17/2023,No,10,75,13.94,Overdue
+PO_00497,6/7/2023,SUP_037,Frontier Materials,PROD_013,Connector Cable,Finished Parts,119,229.77,27343.07,8/3/2023,Yes,0,2,1.68,Paid
+PO_00498,5/23/2024,SUP_050,Zephyr Components,PROD_008,Bearing Unit,Raw Materials,487,441,214768.42,7/17/2024,Yes,0,32,6.57,Paid
+PO_00499,6/18/2024,SUP_022,Integrated Solutions,PROD_023,Capacitor Bank,Finished Parts,419,179.78,75326.98,7/16/2024,Yes,0,38,9.07,Overdue
+PO_00500,1/31/2023,SUP_024,Direct Supply,PROD_019,Insulation Material,Finished Parts,304,369.8,112417.8,3/21/2023,Yes,0,6,1.97,Paid
