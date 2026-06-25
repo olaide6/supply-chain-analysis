@@ -1,0 +1,51 @@
+Supplier_ID,Supplier_Name,Country,Lead_Time_Days,Unit_Cost_USD,Quality_Score_1_10,Defect_Rate_Percent,Payment_Terms_Days,Annual_Orders,Status
+SUP_001,Global Materials Inc,Vietnam,53,295.44,8.5,6.04,30,58,Under Review
+SUP_002,FastParts Co,Germany,68,482.8,7.2,12.26,30,26,At Risk
+SUP_003,Quality Suppliers Ltd,Mexico,57,305.48,6.4,12.0,90,181,Active
+SUP_004,EcoSource Materials,Vietnam,61,141.62,7.8,2.35,30,167,Active
+SUP_005,Premier Components,India,70,151.66,6.9,7.67,90,55,At Risk
+SUP_006,Rapid Supply Chain,Brazil,9,86.81,7.7,10.47,30,126,Under Review
+SUP_007,Elite Industries,Mexico,57,12.74,9.5,12.89,45,15,At Risk
+SUP_008,NextGen Suppliers,Mexico,13,214.58,7.3,4.96,30,108,Active
+SUP_009,Standard Parts Co,Vietnam,27,200.47,6.5,3.38,90,133,At Risk
+SUP_010,Advanced Logistics,China,79,150.28,7.4,10.7,90,46,Active
+SUP_011,Reliable Vendors,India,45,11.97,9.6,12.16,90,33,At Risk
+SUP_012,Industrial Solutions,Vietnam,24,103.43,7.1,5.3,90,102,Active
+SUP_013,Tech Components Ltd,India,10,357.11,8.6,1.53,90,55,Active
+SUP_014,PrecisionParts Inc,India,66,396.14,6.0,14.11,60,190,Active
+SUP_015,Global Traders,Brazil,20,304.95,7.4,6.02,60,104,Active
+SUP_016,Smart Supply,Mexico,15,463.52,7.2,7.81,30,108,Active
+SUP_017,Professional Suppliers,Germany,59,327.28,6.7,12.58,90,197,Under Review
+SUP_018,Dynamic Materials,Brazil,8,457.91,8.1,10.17,30,125,Active
+SUP_019,Century Components,Brazil,66,425.77,7.9,11.05,90,169,Active
+SUP_020,Strategic Partners,India,77,227.48,8.8,3.22,90,170,Active
+SUP_021,Efficient Supply,Japan,50,52.23,7.1,8.17,60,76,At Risk
+SUP_022,Integrated Solutions,Mexico,14,188.56,7.0,10.47,60,137,Active
+SUP_023,Modern Materials,China,53,336.08,6.7,3.51,45,27,Active
+SUP_024,Direct Supply,Brazil,41,334.63,6.9,2.71,60,34,At Risk
+SUP_025,Premium Components,Germany,84,297.69,8.2,14.73,45,63,Under Review
+SUP_026,Unified Suppliers,Japan,87,140.99,7.6,7.8,45,67,Active
+SUP_027,Continental Materials,Japan,42,282.82,6.3,3.99,45,76,Under Review
+SUP_028,Superior Parts,China,56,194.55,7.0,14.94,45,113,At Risk
+SUP_029,Expert Vendors,Brazil,10,486.0,7.0,14.48,45,183,At Risk
+SUP_030,Consolidated Supply,Germany,8,425.21,8.8,8.42,30,33,At Risk
+SUP_031,Innovation Partners,Mexico,12,362.26,8.8,13.25,60,123,Under Review
+SUP_032,Streamline Supply,USA,60,121.81,6.6,2.91,45,41,At Risk
+SUP_033,Optimal Materials,Germany,10,131.75,10.0,4.26,90,184,Under Review
+SUP_034,Precision Suppliers,China,60,25.01,7.1,10.54,60,95,At Risk
+SUP_035,Nexus Components,Japan,69,356.78,9.9,12.72,60,160,Active
+SUP_036,Alliance Suppliers,Mexico,24,59.89,7.6,12.86,45,136,At Risk
+SUP_037,Frontier Materials,Germany,50,222.47,6.1,6.13,30,164,Under Review
+SUP_038,Summit Components,USA,40,104.85,7.4,13.33,45,139,Active
+SUP_039,Harmony Supply,USA,80,448.4,8.5,12.78,30,26,At Risk
+SUP_040,Pinnacle Suppliers,India,68,240.31,8.7,14.04,90,113,Active
+SUP_041,Zenith Materials,India,20,283.82,8.1,11.8,60,170,Active
+SUP_042,Apex Components,Vietnam,54,349.28,7.8,10.07,90,146,Active
+SUP_043,Quantum Suppliers,China,21,73.97,8.2,8.75,30,52,Active
+SUP_044,Stellar Parts,Brazil,78,304.19,8.4,5.65,30,185,At Risk
+SUP_045,Velocity Supply,Germany,84,272.22,6.3,14.11,90,48,Active
+SUP_046,Universal Materials,Germany,68,105.52,7.5,14.61,30,179,Active
+SUP_047,Wavelength Components,Brazil,46,471.71,7.0,4.33,90,35,Under Review
+SUP_048,Xenon Suppliers,Vietnam,86,301.44,9.2,4.65,60,108,Active
+SUP_049,Yearlong Materials,Japan,88,348.92,7.9,7.34,90,59,Under Review
+SUP_050,Zephyr Components,Japan,59,440.83,9.9,6.78,60,162,Active
