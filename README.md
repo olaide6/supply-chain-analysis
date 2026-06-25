@@ -35,9 +35,19 @@ Analyzed 500 purchase orders across 50 suppliers using SQL to identify optimizat
 -  `Supply_chain_analysis_2.sql` — 8 analytical SQL queries for supplier performance, costs, quality, delivery, and payment analysis.
 - `Supply_Chain_Analysis_Report_FINAL.docx` — Full findings and recommendations
 
+- ## Dataset
+
+The `data/` folder contains the CSV tables used for this analysis:
+
+- `Supply_Chain_products.csv` — Product information.
+- `Supply_Chain_purchase_orders.csv` — Purchase-order and delivery data.
+- `suppliers.csv` — Supplier information.
+
+> Note: This project uses synthetic practice data created for portfolio analysis.
+
 ## How to Use
 1. Import the CSV data into SQL Server
 2. Run the queries to analyze supplier performance
 3. View results and recommendations in the analysis report
 
-**Author:** Betty Omoyele | **Date:** 2024
+**Author:** Olaide Omoyele | **Date:** 2024
