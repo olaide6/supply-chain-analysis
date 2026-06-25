@@ -32,7 +32,7 @@ Analyzed 500 purchase orders across 50 suppliers using SQL to identify optimizat
 - **Analysis:** Cost analysis, quality assessment, risk scoring, payment status
 
 ## Files
-- `Supply_Chain_SQL_Corrected.sql` — 8 analytical queries
+-  `Supply_chain_analysis_2.sql` — 8 analytical SQL queries for supplier performance, costs, quality, delivery, and payment analysis.
 - `Supply_Chain_Analysis_Report_FINAL.docx` — Full findings and recommendations
 
 ## How to Use
