@@ -46,8 +46,18 @@ The `data/` folder contains the CSV tables used for this analysis:
 > Note: This project uses synthetic practice data created for portfolio analysis.
 
 ## How to Use
-1. Import the CSV data into SQL Server
-2. Run the queries to analyze supplier performance
-3. View results and recommendations in the analysis report
+
+1. Open the `data/` folder and download the CSV files.
+2. Open SQL Server Management Studio (SSMS) and create a new database, for example `SupplyChainDB`.
+3. Import each CSV file into its own table.
+4. Open `Supply_chain_analysis_2.sql` in SSMS.
+5. Check that the table names in the SQL queries match the tables you created.
+6. Run the 8 queries to analyze supplier performance, costs, quality, delivery, and payment data.
+7. View the findings and recommendations in `Supply_Chain_Analysis_Report_FINAL.docx`.
+
+
+
+
+
 
 **Author:** Olaide Omoyele | **Date:** 2024
