@@ -1,0 +1,26 @@
+Product_ID,Product_Name,Category,Unit
+PROD_001,Steel Bolts,Hardware,Pallet
+PROD_002,Aluminum Sheet,Finished Parts,Box
+PROD_003,Copper Wire,Raw Materials,Kg
+PROD_004,Rubber Gasket,Components,Kg
+PROD_005,Plastic Housing,Components,Pallet
+PROD_006,Electronic Component A,Raw Materials,Box
+PROD_007,Electronic Component B,Components,Piece
+PROD_008,Bearing Unit,Raw Materials,Pallet
+PROD_009,Motor Shaft,Finished Parts,Kg
+PROD_010,Control Panel,Finished Parts,Kg
+PROD_011,LED Assembly,Raw Materials,Pallet
+PROD_012,Power Supply,Finished Parts,Box
+PROD_013,Connector Cable,Finished Parts,Kg
+PROD_014,Circuit Board,Finished Parts,Box
+PROD_015,Fastener Kit,Electronics,Kg
+PROD_016,Metal Frame,Hardware,Kg
+PROD_017,Composite Panel,Components,Meter
+PROD_018,Thermal Paste,Electronics,Kg
+PROD_019,Insulation Material,Finished Parts,Piece
+PROD_020,Battery Cell,Raw Materials,Pallet
+PROD_021,Switch Assembly,Finished Parts,Pallet
+PROD_022,Relay Unit,Hardware,Box
+PROD_023,Capacitor Bank,Finished Parts,Kg
+PROD_024,Transformer Core,Raw Materials,Piece
+PROD_025,Wiring Harness,Hardware,Box
